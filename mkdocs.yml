@@ -1,9 +1,0 @@
-site_name: Carteira de Trabalho Digital
-
-theme:
-  name: material
-  language: "pt"
-  logo: "assets/logo.png"
-  icon:
-    repo: fontawesome/brands/github
-

@@ -1,4 +1,4 @@
-# DPlanejamento
+# Planejamento
 
 ## 1. Objetivo
 
@@ -55,7 +55,7 @@ Extreme programming é um método ágil para facilitar o trabalho em grupo, segu
 
 ### 4.2. Kanban
 
-<img src="./assets/kanban.jpeg" alt="Imagem do Kanban" style="zoom: 50%;" />
+<img src="https://blog.delogic.com.br/wp-content/uploads/2019/07/original-bc417c88fb8ff99a8b570abef88b0a65-1024x1024.jpg" alt="Imagem do Kanban" style="zoom: 50%;" />
 
 ​									**Figura 1:** Representação do Kanban
 
@@ -88,13 +88,13 @@ Outras reuniões fora desses horários podem ocorrer de acordo com a necessidade
 
 | Ferramenta                                                   | Nome                  | Utilidade                                                    |
 | ------------------------------------------------------------ | --------------------- | ------------------------------------------------------------ |
-| <img src="./assets/telegram.png" style="width:100px;" alt="Telegram Logo" /> | Telegram              | Ferramenta utilizada para comunicação entre os membros.      |
-| <img src="/home/murilogomes/Área de Trabalho/requisitos/assets/discord.png" alt="Discord Logo" style="width:100px;" /> | Discord               | Ferramenta utilizada para a realização das reuniões.         |
-| <img src="./assets/github.png" alt="Github Logo" style="width:100px;" /> | GitHub                | Programa de versionamento para organizar tudo que é desenvolvido no projeto. |
-| <img src="./assets/google.png" alt="Ferramentas Google Logo" style="width:100px" /> | Ferramentas do Google | Ferramentas utilizadas para a criação de documentos, planilhas e apresentações em grupo. |
-| <img src="./assets/zenhub.png" alt="ZenHub Logo" style="width:100px;" /> | ZenHub                | Ferramenta utilizada para organizar as tarefas de acordo com o Kanban. |
-| <img src="./assets/drawio.jpeg" alt="Draw.io Logo" style="width:100px;" /> | Draw.io               | Ferramenta utilizada para criar esquemas como RichPictures e etc. |
-| <img src="./assets/teams.png" alt="Teams Logo" style="width:100px;" /> | Microsoft Teams       | Ferramenta utilizada para gravar as apresentações.           |
+| <img src="https://logodownload.org/wp-content/uploads/2017/11/telegram-logo-2.png" style="width:100px;" alt="Telegram Logo" /> | Telegram              | Ferramenta utilizada para comunicação entre os membros.      |
+| <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1.png" alt="Discord Logo" style="width:100px;" /> | Discord               | Ferramenta utilizada para a realização das reuniões.         |
+| <img src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" alt="Github Logo" style="width:100px;" /> | GitHub                | Programa de versionamento para organizar tudo que é desenvolvido no projeto. |
+| <img src="https://4.bp.blogspot.com/-tvFIO35pZmE/VL_ocTcNjXI/AAAAAAAABrU/Q3hykj8hhRE/s1600/suite_transparent_large.png" alt="Ferramentas Google Logo" style="width:100px" /> | Ferramentas do Google | Ferramentas utilizadas para a criação de documentos, planilhas e apresentações em grupo. |
+| <img src="https://seeklogo.com/images/Z/zenhub-logo-662C34D7EA-seeklogo.com.png" alt="ZenHub Logo" style="width:100px;" /> | ZenHub                | Ferramenta utilizada para organizar as tarefas de acordo com o Kanban. |
+| <img src="https://yt3.ggpht.com/a-/AN66SAxt-xOYAkjpVL-eCM-P3az17v7YiumZnf2rMw=s900-mo-c-c0xffffffff-rj-k-no" alt="Draw.io Logo" style="width:100px;" /> | Draw.io               | Ferramenta utilizada para criar esquemas como RichPictures e etc. |
+| <img src="https://english.gcg.com.mx/wp-content/uploads/2020/05/microsoft-teams-logo.png" alt="Teams Logo" style="width:100px;" /> | Microsoft Teams       | Ferramenta utilizada para gravar as apresentações.           |
 
 <br />
 

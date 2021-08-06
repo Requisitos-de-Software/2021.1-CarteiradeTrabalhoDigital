@@ -5,7 +5,7 @@
 
 # Carteira de trabalho digital
 
-<img src="./docs/assets/logo.png" width="100">
+<img src="../assets/logo.png" width="100">
 
 ## 1. Sobre
 
@@ -15,12 +15,12 @@ Este repositório é destinado ao estudo da matéria de Requisitos de Software, 
 
 |                                                   | Membro      | Github       |
 |---------------------------------------------------|------------------|--------------|
-| <img src="./docs/assets/denniel.jpg" width="100"> | Denniel William  | Denniel-sudo |
-| <img src="./docs/assets/giu.jpeg" width="100">    | Giulia Lobo      | Giuulob89    |
-| <img src="./docs/assets/liverson.png" width="100">| Liverson Paulo   | liversonp    |
-| <img src="./docs/assets/lucas.jpg" width="100">   | Lucas Rodrigues  | nickby2      |
-| <img src="./docs/assets/murizada.jpg" width="100">| Murilo Gomes     | murilogds    |
-| <img src="./docs/assets/rhuan.jpg" width="100">   | Rhuan Marques    | RhuanMr      |
+| <img src="../assets/denniel.jpg" width="100"> | Denniel William  | Denniel-sudo |
+| <img src="../assets/giu.jpeg" width="100">    | Giulia Lobo      | Giuulob89    |
+| <img src="../assets/liverson.png" width="100">| Liverson Paulo   | liversonp    |
+| <img src="../assets/lucas.jpg" width="100">   | Lucas Rodrigues  | nickby2      |
+| <img src="../assets/murizada.jpg" width="100">| Murilo Gomes     | murilogds    |
+| <img src="../assets/rhuan.jpg" width="100">   | Rhuan Marques    | RhuanMr      |
 
 ## 3. Motivação
 

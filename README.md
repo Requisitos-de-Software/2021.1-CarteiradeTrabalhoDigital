@@ -16,3 +16,7 @@ Este repositório é destinado ao estudo da matéria de Requisitos de Software, 
 | <img src="./docs/assets/lucas.jpg" width="100">   | Lucas Rodrigues  | nickby2      |
 | <img src="./docs/assets/murizada.jpg" width="100">| Murilo Gomes     | murilogds    |
 | <img src="./docs/assets/rhuan.jpg" width="100">   | Rhuan Marques    | RhuanMr      |
+
+## 3. Motivação
+
+Escolhemos esse aplicativo pela facilidade de comunicação com os desenvolvedores e porque é um aplicativo muito presente na vida da comunidade no dia a dia.

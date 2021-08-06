@@ -1,3 +1,8 @@
+| Versão | Data      | Descriçào           | Autor       |
+|--------|-----------|---------------------|-------------|
+| 1.0    | 03/08/2021| Criação do documento| Liverson    |
+| 1.1    | 06/08/2021| Edição do documento |Rhuan Marques|
+
 # Carteira de trabalho digital
 
 <img src="./assets/logo.png" width="100">

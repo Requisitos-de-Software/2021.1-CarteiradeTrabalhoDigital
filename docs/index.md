@@ -13,14 +13,14 @@ Este repositório é destinado ao estudo da matéria de Requisitos de Software, 
 
 ## 2. Equipe
 
-|                                                   | Membro      | Github       |
+|                                                   | Membro           | Github       |
 |---------------------------------------------------|------------------|--------------|
-| <img src="../assets/denniel.jpg" width="100"> | Denniel William  | Denniel-sudo |
-| <img src="../assets/giu.jpeg" width="100">    | Giulia Lobo      | Giuulob89    |
-| <img src="../assets/liverson.png" width="100">| Liverson Paulo   | liversonp    |
-| <img src="../assets/lucas.jpg" width="100">   | Lucas Rodrigues  | nickby2      |
-| <img src="../assets/murizada.jpg" width="100">| Murilo Gomes     | murilogds    |
-| <img src="../assets/rhuan.jpg" width="100">   | Rhuan Marques    | RhuanMr      |
+| <img src="./assets/denniel.jpg" width="100"> | Denniel William  | Denniel-sudo |
+| <img src="./assets/giu.jpeg" width="100">    | Giulia Lobo      | Giuulob89    |
+| <img src="./assets/liverson.png" width="100">| Liverson Paulo   | liversonp    |
+| <img src="./assets/lucas.jpg" width="100">   | Lucas Rodrigues  | nickby2      |
+| <img src="./assets/murizada.jpg" width="100">| Murilo Gomes     | murilogds    |
+| <img src="./assets/rhuan.jpg" width="100">   | Rhuan Marques    | RhuanMr      |
 
 ## 3. Motivação
 

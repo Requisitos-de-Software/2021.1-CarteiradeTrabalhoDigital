@@ -23,19 +23,31 @@ Em consenso com toda a equipe, foi selecionada a **Carteira de Trabalho Digital*
 
 <br />
 
-## 3. Cronograma de atividades
+## 3.1. Cronograma de atividades
 
   Foi organizado um cronograma de atividades seguindo as datas definidas no plano de ensino, é importante avisar que algumas datas podem sofrer alterações.
 
 | Etapa                              | Descrição                                              | Começo     | Final      |
 | ---------------------------------- | ------------------------------------------------------ | ---------- | ---------- |
-| 1 - Pré - Rastreabilidade          | Planejamento e RichPicture                             | 29/07/2021 | 04/08/2021 |
-| 2 - Elicitação de Requisitos       | Técnicas e Priorização                                 | 10/08/2021 | 21/08/2021 |
-| 3 - Modelagem de Requisitos        | Cenários, Léxico, Use Case e Especificação suplementar | 17/08/2021 | 30/08/2021 |
-| 4 - Modelagem de Requisitos - Ágil | Histórias de Usuário, Backlogs e NFR framework         | 26/08/2021 | 11/09/2021 |
-| 5 - Análise de Requisitos          | Verificação e Validação                                | 09/09/2021 | 18/09/2021 |
-| 6 - Pós - Rastreabilidade          | Gerência II                                            | 14/09/2021 | 09/10/2021 |
-| 7 - Projeto final                  | Apresentação do projeto final                          | 05/10/2021 | 20/10/2021 |
+| 1 - Pré - Rastreabilidade          | Planejamento e RichPicture                             | 29/07/2021 | 31/07/2021 |
+| 2 - Elicitação de Requisitos       | Técnicas e Priorização                                 | 06/08/2021 | 21/08/2021 |
+| 3 - Modelagem de Requisitos        | Cenários, Léxico, Use Case e Especificação suplementar | 20/08/2021 | 30/08/2021 |
+| 4 - Modelagem de Requisitos - Ágil | Histórias de Usuário, Backlogs e NFR framework         | 31/08/2021 | 11/09/2021 |
+| 5 - Análise de Requisitos          | Verificação e Validação                                | 12/09/2021 | 18/09/2021 |
+| 6 - Pós - Rastreabilidade          | Gerência II                                            | 19/09/2021 | 09/10/2021 |
+| 7 - Projeto final                  | Apresentação do projeto final                          | 10/10/2021 | 20/10/2021 |
+
+<br />
+
+## 3.2. Cronograma de atividades detalhado
+
+  Foi organizado um cronograma de atividades seguindo as datas definidas no plano de ensino, é importante avisar que algumas datas podem sofrer alterações.
+
+| Etapa                              | Descrição                                              | Reuniões de alinhamento     | Período de Atividades      | Gravação da apresentação |
+| ---------------------------------- | ------------------------------------------------------ | ---------- | ---------- | -------------------------- |
+| 1 - Pré - Rastreabilidade          | Planejamento e RichPicture                             | 23/07/2021 | 24/07/2021 a 30/07 | 31/07/2021 |
+| 2 - Elicitação de Requisitos       | Técnicas e Priorização                                 | 06/08/2021 e 10/08 | 10/08/2021 a 18/08/2021 | 19/08/2021 |
+| 3 - Modelagem de Requisitos        | Cenários, Léxico, Use Case e Especificação suplementar | 20/08/2021 | 20/08/2021 a 26/08/2021 | 27/08/2021 |
 
 <br />
 
@@ -102,5 +114,6 @@ Outras reuniões fora desses horários podem ocorrer de acordo com a necessidade
 
 | Versão | Descrição                               | Data       | Autor(es)              | Revisor(es)                   |
 | ------ | --------------------------------------- | ---------- | ---------------------- | ----------------------------- |
-| 1.0.0  | Criação da primeira versão do documento | 03/08/2021 | Todos os participantes | Murilo Gomes e Liverson Paulo |
+| 1.0.0 | Criação da primeira versão do documento | 03/08/2021 | Todos os participantes | Murilo Gomes e Liverson Paulo |
+| 1.1.0 | Atualização do cronograma das atividades | 19/08/2021 | Giulia Lobo | |
 

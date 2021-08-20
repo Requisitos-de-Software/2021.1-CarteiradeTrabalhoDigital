@@ -14,46 +14,46 @@ Foram elaboradas 17 questões relacionadas a carteira de trabalho digital, sendo
 No total foram coletadas 47 respostas.
 
 ### Pergunta 1
-![Pergunta 1](../assets/questionario/q1.png)
+![Pergunta 1](../../assets/questionario/q1.png)
 
 ### Pergunta 2
-![Pergunta 2](../assets/questionario/q2.png)
+![Pergunta 2](../../assets/questionario/q2.png)
 
 ### Pergunta 3
-![Pergunta 3](../assets/questionario/q3.png)
+![Pergunta 3](../../assets/questionario/q3.png)
 
 ### Pergunta 4
-![Pergunta 4](../assets/questionario/q4.png)
+![Pergunta 4](../../assets/questionario/q4.png)
 
 ### Pergunta 5
-![Pergunta 5](../assets/questionario/q5.png)
+![Pergunta 5](../../assets/questionario/q5.png)
 
 ### Pergunta 6
-![Pergunta 6](../assets/questionario/q6.png)
+![Pergunta 6](../../assets/questionario/q6.png)
 
 ### Pergunta 7
-![Pergunta 7](../assets/questionario/q7.png)
+![Pergunta 7](../../assets/questionario/q7.png)
 
 ### Pergunta 8
-![Pergunta 8](../assets/questionario/q8.png)
+![Pergunta 8](../../assets/questionario/q8.png)
 
 
 ### Perguntas para quem já utilizou o app
 
 ### Pergunta 9
-![Pergunta 9](../assets/questionario/q9.png)
+![Pergunta 9](../../assets/questionario/q9.png)
 
 ### Pergunta 10
-![Pergunta 10](../assets/questionario/q10.png)
+![Pergunta 10](../../assets/questionario/q10.png)
 
 ### Pergunta 11
-![Pergunta 11](../assets/questionario/q11.png)
+![Pergunta 11](../../assets/questionario/q11.png)
 
 ### Pergunta 12
-![Pergunta 12](../assets/questionario/q12.png)
+![Pergunta 12](../../assets/questionario/q12.png)
 
 ### Pergunta 13
-![Pergunta 13](../assets/questionario/q13.png)
+![Pergunta 13](../../assets/questionario/q13.png)
 
 ### Pergunta 14
 **Quais aspectos você acredita que precisam melhorar no app?**
@@ -70,13 +70,13 @@ Algumas respostas:
 ### Perguntas para quem nunca utilizou o app:
 
 ### Pergunta 15
-![Pergunta 15](../assets/questionario/q14.png)
+![Pergunta 15](../../assets/questionario/q14.png)
 
 ### Pergunta 16
-![Pergunta 16](../assets/questionario/q15.png)
+![Pergunta 16](../../assets/questionario/q15.png)
 
 ### Pergunta 17
-![Pergunta 17](../assets/questionario/q16.png)
+![Pergunta 17](../../assets/questionario/q16.png)
 
 ## 4. Conclusão
 De acordo com as respostas do questionário, podemos perceber que a Carteira de Trabalho Digital é um aplicativo considerado muito útil pela maioria das pessoas. Percebe-se também que as pessoas quase não carregam esse documento físico, não estando preparadas para alguma situação inesperada. Dentre as funcionalidades principais, as mais utilizadas são: emitir e compartilhar a carteira em pdf, visualizar contratos e verificar registros de trabalho. Também foi notado que nem tantas pessoas tinham o conhecimento sobre a existência do aplicativo e isso desmotiva os desenvolvedores a estarem atualizando a aplicação. Logo, os requisitos não são constatemente reavaliados.
@@ -102,7 +102,5 @@ Depois de avaliar e tirar a conclusão sobre o questionário, pudemos levantar a
 ## 6. Versionamento
 
 | Versão | Descrição                               | Data       | Autor(es)              | Revisor(es)                   |
-
 | ------ | --------------------------------------- | ---------- | ---------------------- | ----------------------------- |
-
-| 1.0.0 | Criação do documento com os resultados do questionário de elicitação e os requisitos levantados | 19/08/2021 | Murilo Gomes e Giulia Lobo |  |
+| 1.0.0 | Criação do documento com os resultados do questionário de elicitação e os requisitos levantados | 19/08/2021 | Murilo Gomes e Giulia Lobo | Denniel William e Rhuan Marques |

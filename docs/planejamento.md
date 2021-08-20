@@ -111,7 +111,8 @@ Outras reuniões fora desses horários podem ocorrer de acordo com a necessidade
 
 ## 6. Versionamento
 
-| Versão | Descrição                               | Data       | Autor(es)              |
-| ------ | --------------------------------------- | ---------- | ---------------------- |
-| 1.0.0  | Criação da primeira versão do documento | 03/08/2021 | Todos os participantes |
+| Versão | Descrição                               | Data       | Autor(es)              | Revisor(es)                   |
+| ------ | --------------------------------------- | ---------- | ---------------------- | ----------------------------- |
+| 1.0.0 | Criação da primeira versão do documento | 03/08/2021 | Todos os participantes | Murilo Gomes e Liverson Paulo |
+| 1.1.0 | Atualização do cronograma das atividades | 19/08/2021 | Giulia Lobo | Denniel William |
 

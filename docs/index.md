@@ -13,7 +13,7 @@ Este repositório é destinado ao estudo da matéria de Requisitos de Software, 
 
 ## 2. Equipe
 
-|                                                   | Membro      | Github       |
+|                                                   | Membro           | Github       |
 |---------------------------------------------------|------------------|--------------|
 | <img src="../assets/denniel.jpg" width="100"> | Denniel William  | Denniel-sudo |
 | <img src="../assets/giu.jpeg" width="100">    | Giulia Lobo      | Giuulob89    |

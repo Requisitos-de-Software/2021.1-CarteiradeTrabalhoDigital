@@ -2,13 +2,15 @@
 
 ## 1. Introdução
 
+
+
 ## 2. Personas
 
 ### 2.1 Fernando Fernandes Sousa
 
 | Característica | Descrição
 | :--- | :--- | 
-| Foto |  <img src="../assets/fernandofernandes.png" width="100">  |
+| Foto |  <img src="../../assets/fernandofernandes.png" width="100">  |
 | Nome |  Fernando Fernandes Sousa |
 | Idade | 32 Anos |
 | Sexo | Masculino |
@@ -23,7 +25,7 @@
 
 | Característica | Descrição
 | :--- | :--- | 
-| Foto |  <img src="../assets/andrestuart.png" width="100">  |
+| Foto |  <img src="../../assets/andrestuart.png" width="100">  |
 | Nome |  André Stuart Fonseca |
 | Idade | 25 Anos |
 | Sexo | Masculino |
@@ -36,7 +38,7 @@
 
 | Característica | Descrição
 | :--- | :--- | 
-| Foto |  <img src="../assets/joaquimbarbosa.jfif" width="100">  |
+| Foto |  <img src="../../assets/joaquimbarbosa.jfif" width="100">  |
 | Nome |  Joaquim Silva Barbosa |
 | Idade | 21 Anos |
 | Sexo | Masculino |
@@ -50,7 +52,7 @@
 ### 2.4 Carlos Araújo
 |Característica| Descrição |
 | :--- | :--- |
-|Foto| <img src="../assets/carlosaraujo.jpg" width="100"> |
+|Foto| <img src="../../assets/carlosaraujo.jpg" width="100"> |
 | Nome | Carlos Araújo |
 | Idade | 30 anos |
 | Sexo | Masculino |
@@ -64,7 +66,7 @@
 
 | Característica | Descrição
 | :--- | :--- | 
-| Foto |  <img src="../assets/melissabarbosa.png" width="100">  |
+| Foto |  <img src="../../assets/melissabarbosa.png" width="100">  |
 | Nome |  Melissa Barbosa Couto |
 | Idade | 7 Anos |
 | Sexo | Feminino |

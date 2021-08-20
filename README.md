@@ -15,7 +15,7 @@ Este repositório é destinado ao estudo da matéria de Requisitos de Software, 
 
 |                                                   | Membro      | Github       |
 |---------------------------------------------------|------------------|--------------|
-| <img src="https://github.com/Requisitos-de-Software/2021.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/denel.jpg" width="100"> | Denniel William  | Denniel-sudo |
+| <img src="https://github.com/Requisitos-de-Software/2021.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/denniel.jpg" width="100"> | Denniel William  | Denniel-sudo |
 | <img src="https://github.com/Requisitos-de-Software/2021.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/giu.jpeg" width="100">    | Giulia Lobo      | Giuulob89    |
 | <img src="https://github.com/Requisitos-de-Software/2021.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/liverson.png" width="100">| Liverson Paulo   | liversonp    |
 | <img src="https://github.com/Requisitos-de-Software/2021.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/lucas.jpg" width="100">   | Lucas Rodrigues  | nickby2      |

@@ -58,7 +58,8 @@ No total foram coletadas 47 respostas.
 ### Pergunta 14
 **Quais aspectos você acredita que precisam melhorar no app?**
 
-Algumas respostas: 
+Algumas respostas:
+ 
 * Os dados mostrados quando não há nenhum registro;
 * Reportar divergências de informações no contrato não funciona;
 * O design da carteira gerada em PDF;

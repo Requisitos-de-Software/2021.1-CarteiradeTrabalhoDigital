@@ -2,7 +2,9 @@
 
 ## 1. Introdução
 
+Personas são arquétipos, personagens ficcionais, concebidos a partir da síntese de comportamentos observados entre consumidores com perfis extremos. Representam as motivações, desejos, expectativas e necessidades, reunindo características significativas de um grupo mais abrangente.
 
+Podem ser utilizadas em várias fases do processo, pois servem para alinhar informações dos usuários com todas as pessoas envolvidas, mas são especialmente úteis na geração e validação de ideias.
 
 ## 2. Personas
 
@@ -74,7 +76,8 @@
 | Profissão | Estudante |
 | Hobbies e atividades | Brincar de boneca, passear com seu cachorro, assistir desenhos animados |
 
-## 4. Versionamento
+
+## 5. Versionamento
 
 | Versão | Descrição| Data| Autor(es)| Revisor(es)|
 |--------|----------|-----|----------|------------|

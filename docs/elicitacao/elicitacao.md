@@ -124,7 +124,7 @@ Depois de avaliar e tirar a conclusão sobre o questionário, pudemos levantar a
 
 ### 3.1 Introdução
 
-Storytalling ou contador de histórias, é definida como uma técnica de elicitação de requisitos, que tem como características a criação de histórias que ilustram as necessidades dos usuários, que tem como característica o compartilhamento de conhecimento.
+Storytelling ou contador de histórias, é definida como uma técnica de elicitação de requisitos, que tem como características a criação de histórias que ilustram as necessidades dos usuários, que tem como característica o compartilhamento de conhecimento.
 
 ### 3.2 Storytelling
 

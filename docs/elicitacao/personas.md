@@ -77,6 +77,10 @@ Podem ser utilizadas em várias fases do processo, pois servem para alinhar info
 | Hobbies e atividades | Brincar de boneca, passear com seu cachorro, assistir desenhos animados |
 
 
+## 4. Bibliografia
+
+* VIANNA. Maurício. VIANNA. Ysmar. ADLER. Isabel. LUCENA. Brenda. RUSSO. Beatriz. Design Thinking - Inovação em negócios.
+
 ## 5. Versionamento
 
 | Versão | Descrição| Data| Autor(es)| Revisor(es)|

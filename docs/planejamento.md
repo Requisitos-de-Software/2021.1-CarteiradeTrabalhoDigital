@@ -45,8 +45,8 @@ Em consenso com toda a equipe, foi selecionada a **Carteira de Trabalho Digital*
 
 | Etapa                              | Descrição                                              | Reuniões de alinhamento     | Período de Atividades      | Gravação da apresentação |
 | ---------------------------------- | ------------------------------------------------------ | ---------- | ---------- | -------------------------- |
-| 1 - Pré - Rastreabilidade          | Planejamento e RichPicture                             | 23/07/2021 | 24/07/2021 a 30/07 | 31/07/2021 |
-| 2 - Elicitação de Requisitos       | Técnicas e Priorização                                 | 06/08/2021 e 10/08 | 10/08/2021 a 18/08/2021 | 19/08/2021 |
+| 1 - Pré - Rastreabilidade          | Planejamento e RichPicture                             | 23/07/2021 | 24/07/2021 a 30/07/2021 | 31/07/2021 |
+| 2 - Elicitação de Requisitos       | Técnicas e Priorização                                 | 06/08/2021 e 10/08/2021 | 10/08/2021 a 18/08/2021 | 20/08/2021 |
 | 3 - Modelagem de Requisitos        | Cenários, Léxico, Use Case e Especificação suplementar | 20/08/2021 | 20/08/2021 a 26/08/2021 | 27/08/2021 |
 <br />
 

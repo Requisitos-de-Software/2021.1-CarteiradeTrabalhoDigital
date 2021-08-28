@@ -9,6 +9,7 @@
 ## 2. Diagrama de casos de uso
 
 <img src="../../assets/Caso_de_Uso.jpg"/>
+​									**Figura 1:** Diagrama de casos de uso. **Autor(es)**: Grupo.
 
 ## 3. Especificação dos casos de uso
 

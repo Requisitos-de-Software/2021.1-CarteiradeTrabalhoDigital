@@ -8,7 +8,7 @@
 
 ## 2. Diagrama de casos de uso
 
-<img src="./../assets/Caso_de_Uso.jpg"/>
+<img src="../../assets/Caso_de_Uso.jpg"/>
 
 ## 3. Especificação dos casos de uso
 

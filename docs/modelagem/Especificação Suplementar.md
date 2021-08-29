@@ -13,7 +13,7 @@
 * A carteira de trabalho digital, é um aplicativo do governo, nele contem 4 ícones, inicio, contratos, enviar e mais.
 
 
-## 4. Funcinalidade: 
+## 4. Funcionalidade 
 
 Os quatro ícones do aplicativo, funcionam: 
 
@@ -38,6 +38,12 @@ sensíveis.
 * O código é totalmente privado
 * Disponível para dispositivos moveis com sistema Android ou iOS.
 
-## 7. Privacidade
+## 8. Privacidade
 
 * Somente com o CPF e senha o usuário consegue acessar a sua conta no aplicativo da carteira de trabalho digital, o aplicativo também conta com o termo de uso e política de privacidade de pessoa pública, que estabelece uma relação de cofiança entre o usuário e o aplicativo. 
+
+## 9. Versionamento
+
+| Data       | Versão | Descrição            |         Autor           | Revisor |
+|------------|-----|-------------------------|-------------------------|---------|
+| 24/08/2021 | 0.1 | Criação do Documento com especificação suplementar | Lucas Rodrigues | Murilo Gomes |

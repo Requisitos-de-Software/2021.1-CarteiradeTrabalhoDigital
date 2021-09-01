@@ -5,7 +5,7 @@
 
 # Carteira de trabalho digital
 
-<img src="./assets/logo.png">
+![logo](assets/logo.png)
 
 ## 1. Sobre
 

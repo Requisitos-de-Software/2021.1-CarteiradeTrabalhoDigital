@@ -13,97 +13,97 @@
 
 ## 3. Especificação dos casos de uso
 
-### UC01 Fazer o cadastro de usuário
+### US01 Fazer o cadastro de usuário
 
-|   UC01   | Descrição |
+|   US01   | Descrição |
 | -------- | --------- |
 | Ator | Contratado |
 | Pré-condições| Acesso à internet, ter um CPF |
 | Pós-condições| O ator terá logado no sistema |
 
-### UC02 Fazer o Login de usuário
+### US02 Fazer o Login de usuário
 
-|   UC02   | Descrição |
+|   US02   | Descrição |
 | -------- | --------- |
 | Ator | Contratado |
 | Pré-condições| Acesso à internet, ter um CPF |
 | Pós-condições| O ator terá logado no sistema |
 
-### UC03 Fazer o Logout de usuário
+### US03 Fazer o Logout de usuário
 
-|   UC03   | Descrição |
+|   US03   | Descrição |
 | -------- | --------- |
 | Ator | Contratado |
 | Pré-condições| Acesso à internet |
 | Pós-condições|  O ator estará deslogado do sistema |
 
-### UC04 Fazer perguntas sobre a carteira de trabalho digital
+### US04 Fazer perguntas sobre a carteira de trabalho digital
 
-|   UC04   | Descrição |
+|   US04   | Descrição |
 | -------- | --------- |
 | Ator | Contratado |
 | Pré-condições| Acesso à internet |
 | Pós-condições| O ator terá respostas sobre a carteira de trabalho digital |
 
-### UC05 Fazer perguntas sobre o seguro-desemprego
+### US05 Fazer perguntas sobre o seguro-desemprego
 
-|   UC05   | Descrição |
+|   US05   | Descrição |
 | -------- | --------- |
 | Ator | Contratado |
 | Pré-condições| Acesso à internet, estar logado |
 | Pós-condições| O ator terá respostas sobre o seguro-desemprego |
 
-### UC06 Emitir carteira de trabalho em PDF
+### US06 Emitir carteira de trabalho em PDF
 
-|   UC06   | Descrição |
+|   US06   | Descrição |
 | -------- | --------- |
 | Ator | Contratado |
 | Pré-condições| Estar logado |
 | Pós-condições| Usuário poderá baixar um pdf da carteira de trabalho digital |
 
-### UC07 Mostrar registros de trabalho
+### US07 Mostrar registros de trabalho
 
-|   UC07   | Descrição |
+|   US07   | Descrição |
 | -------- | --------- |
 | Ator | Contratado |
 | Pré-condições| Estar logado |
 | Pós-condições| O ator pode consultar seus registros de trabalho |
 
-### UC08 Mostrar os contratos
+### US08 Mostrar os contratos
 
-|   UC08   | Descrição |
+|   US08   | Descrição |
 | -------- | --------- |
 | Ator | Contratado |
 | Pré-condições| Acesso à internet, estar logado |
 | Pós-condições| O ator pode consultar seus contratos |
 
-### UC09 Mostrar registros de trabalho
+### US09 Mostrar registros de trabalho
 
-|   UC09   | Descrição |
+|   US09   | Descrição |
 | -------- | --------- |
 | Ator | Contratado |
 | Pré-condições| Acesso à internet, estar logado |
 | Pós-condições| O ator pode consultar seus registros de trabalho |
 
-### UC10 Solicitar seguro-desemprego
+### US10 Solicitar seguro-desemprego
 
-|   UC10   | Descrição |
+|   US10   | Descrição |
 | -------- | --------- |
 | Ator | Contratado |
 | Pré-condições| Acesso à internet, estar logado|
 | Pós-condições| O ator terá seu seguro-desemprego solicitado |
 
-### UC11 Consultar benefício emergencial
+### US11 Consultar benefício emergencial
 
-|   UC11   | Descrição |
+|   US11   | Descrição |
 | -------- | --------- |
 | Ator | Contratado |
 | Pré-condições| Acesso à internet, estar logado |
 | Pós-condições| O ator pode ver seu benefício emergencial |
 
-### UC12 Consultar abono salarial
+### US12 Consultar abono salarial
 
-|   UC12   | Descrição |
+|   US12   | Descrição |
 | -------- | --------- |
 | Ator | Contratado |
 | Pré-condições| Acesso à internet, estar logado |

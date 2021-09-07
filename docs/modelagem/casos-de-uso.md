@@ -6,12 +6,18 @@
 
 <p>Os casos de uso integram os requisitos em um pacote abrangente que descreve a interação do usuário com o sistema. Eles começam onde o processo de coleta de requisitos termina. Os requisitos determinam quais Casos de Uso o sistema terá, e muitos dos requisitos se tornarão sua lógica de negócios.</p>
 
-## 2. Diagrama de casos de uso
+## 2. Metodologia
+
+<p>Para construir o nosso diagrama de casos de uso, primeiramente pegamos de base os requisitos que foram levantados na fase de elicitação.</p>
+<p>A partir desses requisitos, foi contruído um product backlog com todos os épicos e as histórias com as quais o grupo irá trabalhar.</p>
+<p>E, por último, foram pensadas as relações existentes entre as hgistórias criadas e desenhado o respectivo diagrama.</p>
+
+## 3. Diagrama de casos de uso
 
 <img src="../../assets/Caso_de_Uso.jpg"/>
 ​									**Figura 1:** Diagrama de casos de uso. **Autor(es)**: Grupo.
 
-## 3. Especificação dos casos de uso
+## 4. Especificação dos casos de uso
 
 ### US01 Fazer o cadastro de usuário
 
@@ -110,7 +116,7 @@
 | Pós-condições| O ator pode ver seu abono salarial |
 
 
-## 4. Versionamento
+## 5. Versionamento
 
 | Data       | Versão | Descrição            |         Autor           | Revisor |
 |------------|-----|-------------------------|-------------------------|---------|

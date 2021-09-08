@@ -1,4 +1,4 @@
-| Versão | Data       | Descriçào            | Autor(es)     | Revisor(es)  |
+| Versão | Data       | Descrição            | Autor(es)     | Revisor(es)  |
 | ------ | ---------- | -------------------- | ------------- | ------------ |
 | 1.0    | 03/08/2021 | Criação do documento | Liverson      | Murilo Gomes |
 | 1.1    | 06/08/2021 | Edição do documento  | Rhuan Marques | Murilo Gomes |

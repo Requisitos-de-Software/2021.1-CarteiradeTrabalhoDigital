@@ -216,4 +216,4 @@
 | Data       | Versão | Descrição            |         Autor           | Revisor |
 |------------|-----|-------------------------|-------------------------|---------|
 | 24/08/2021 | 0.1 | Criação do Documento com tema, épico e história de usuário  | Rhuan Marques | Giulia Lobo |
-| 07/09/2021 | 1.0 | Adição da nova versão do diagrama e finalização das tabelas de caso de uso  | Denniel William |  |
+| 07/09/2021 | 1.0 | Adição da nova versão do diagrama e finalização das tabelas de caso de uso  | Denniel William | Giulia Lobo |

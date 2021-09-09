@@ -13,24 +13,27 @@
 <p>Após a análise dos softgoals, os gráficos foram elaborados com base no padrão do NFR Framework</p>
 
 <img src="../../assets/legenda_nfr.png">
-**Figura 1:** Legenda. **Autor(es):** Grupo Promobit.
+**Figura 1:** Legenda. **Fonte:** Grupo Promobit.
 
 ## 3. Usabilidade
 ### 3.1. Sem propagação
 <img src="../../assets/Usabilidade.png">
+**Figura 2:** Usabilidade. **Fonte:** Liverson Paulo e Rhuan Marques
 
 ## 4. Portabilidade
 ### 4.1. Sem propagação
 <img src="../../assets/Portabilidade.png">
+**Figura 3:** Portabilidade. **Fonte:** Liverson Paulo e Rhuan Marques
 
 ## 5. Confiabilidade
 ### 5.1. Sem propagação
 <img src="../../assets/Confiabilidade.png">
+**Figura 5:** Confiabilidade. **Fonte:** Liverson Paulo e Rhuan Marques
 
 ## 6. Eficiência
 ### 6.1. Sem propagação
 <img src="../../assets/eficiencia.png">
-
+**Figura 6:** Eficiência. **Fonte:** Liverson Paulo e Rhuan Marques
 
 ## 7. Conclusão
 

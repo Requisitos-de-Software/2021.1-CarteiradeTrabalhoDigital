@@ -19,7 +19,7 @@ Este documento tem como objetivo descrever todas as funcionalidades desejáveis 
 |----|-----------|
 | TM01 | Usuário |
 
-## 2. Épicos
+## 2. Épicos <span id="Epicos"> </span>
 | ID | DESCRIÇÃO | ID RELACIONADO (TEMA) |
 |----|-----------|----------------|
 | EP01 | Eu como visitante ou usuário, desejo administrar uma conta na carteira de trabalho digital | TM01 |
@@ -28,24 +28,24 @@ Este documento tem como objetivo descrever todas as funcionalidades desejáveis 
 | EP04 | Eu como usuário, desejo ter informações dos meus contratos | TM01 |
 | EP05 | Eu como usuário, desejo solicitar benefícios pela carteira de trabalho digital | TM01 |
 
-## 3. História de Usuário
+## 3. Tabela do Backlog
 
 |    ID   |      Tipo     |     Eu como    |      Desejo       | De modo que | Critérios de Aceitação | Prioridade | ID RELACIONADO (ÉPICO) |
 |-------|-------------|--------------|-----------------|-----------|----------|---------|---------|
-|    US01    |   Funcional   | Usuário | Fazer o cadastro de usuário | eu consiga me cadastrar | <a href="#US01">[US01]</a> | Must | EP01 |
-|    US02    |   Funcional   | Usuário | Fazer o Login de usuário | eu consiga logar na minha conta | <a href="#US02">[US02]</a> | Must | EP01 |
-|    US03    |   Funcional   | Usuário | Fazer o Logout de usuário | eu consiga sair | <a href="#US03">[US03]</a> | Must | EP01 |
-|    US04    |   Funcional   | Usuário | Fazer perguntas sobre a carteira de trabalho digital | eu possa sanar minhas dúvidas sobre a carteira de trabalho digital | <a href="#US04">[US04]</a> | Must | EP02 |
-|    US05    |   Funcional   | Usuário | Fazer perguntas sobre o seguro-desemprego | eu possa sanar minhas dúvidas sobre o seguro-desemprego | <a href="#US05">[US05]</a> | Must | EP02 |
-|    US06    |   Funcional   | Usuário | Emitir carteira de trabalho em PDF | eu consiga compartilhar o PDF da carteira de trabalho | <a href="#US06">[US06]</a> | Must | EP03 |
-|    US07    |   Funcional   | Usuário | Ver os registros de trabalho | eu consiga ver os meus registros | <a href="#US07">[US07]</a> | Must | EP04 |
-|    US08    |   Funcional   | Usuário | Ver os meus contratos | eu possa ver todos os meus contratos | <a href="#US08">[US08]</a> | Must | EP04 |
-|    US09    |   Funcional   | Usuário | Ver anotações de contrato | eu possa ver as anotações dos meus contratos | <a href="#US09">[US09]</a> | Should | EP04 |
-|    US10    |   Funcional   | Usuário | Reportar as divergências no contrato | eu possa informar quais são as divergencias no contrato | <a href="#US10">[US10]</a> | Should | EP04 |
-|    US11    |   Funcional   | Usuário | Ver gráficos dos meus contratos | eu possa ver os gráficos do contrato | <a href="#US11">[US11]</a> | Could | EP04 |
-|    US12    |   Funcional   | Usuário | Solicitar seguro-desemprego | eu possa ter o feedback sobre a minha solicitação do seguro-desemprego | <a href="#US12">[US12]</a> | Must | EP05 |
-|    US13    |   Funcional   | Usuário | Consultar benefício emergencial | eu possa ter o feedback sobre a minha solicitação do benefício emergencial | <a href="#US13">[US13]</a> | Must | EP05 |
-|    US14    |   Funcional   | Usuário | Consultar abono salarial | eu possa ver informações sobre o abono salarial | <a href="#US14">[US14]</a> | Must | EP05 |
+|    <a href="#US01">[US01]</a>    |   Funcional   | Usuário | Fazer o cadastro de usuário | eu consiga me cadastrar | <a href="#US01">[US01]</a> | Must | <a href="#Epicos">[EP01]</a> |
+|    <a href="#US02">[US02]</a>    |   Funcional   | Usuário | Fazer o Login de usuário | eu consiga logar na minha conta | <a href="#US02">[US02]</a> | Must | <a href="#Epicos">[EP01]</a> |
+|    <a href="#US03">[US03]</a>    |   Funcional   | Usuário | Fazer o Logout de usuário | eu consiga sair | <a href="#US03">[US03]</a> | Must | <a href="#Epicos">[EP01]</a> |
+|    <a href="#US04">[US04]</a>    |   Funcional   | Usuário | Fazer perguntas sobre a carteira de trabalho digital | eu possa sanar minhas dúvidas sobre a carteira de trabalho digital | <a href="#US04">[US04]</a> | Must | <a href="#Epicos">[EP02]</a> |
+|    <a href="#US05">[US05]</a>    |   Funcional   | Usuário | Fazer perguntas sobre o seguro-desemprego | eu possa sanar minhas dúvidas sobre o seguro-desemprego | <a href="#US05">[US05]</a> | Must | <a href="#Epicos">[EP02]</a> |
+|    <a href="#US06">[US06]</a>    |   Funcional   | Usuário | Emitir carteira de trabalho em PDF | eu consiga compartilhar o PDF da carteira de trabalho | <a href="#US06">[US06]</a> | Must | <a href="#Epicos">[EP03]</a> |
+|    <a href="#US07">[US07]</a>    |   Funcional   | Usuário | Ver os registros de trabalho | eu consiga ver os meus registros | <a href="#US07">[US07]</a> | Must | <a href="#Epicos">[EP04]</a> |
+|    <a href="#US08">[US08]</a>    |   Funcional   | Usuário | Ver os meus contratos | eu possa ver todos os meus contratos | <a href="#US08">[US08]</a> | Must | <a href="#Epicos">[EP04]</a> |
+|    <a href="#US09">[US09]</a>    |   Funcional   | Usuário | Ver anotações de contrato | eu possa ver as anotações dos meus contratos | <a href="#US09">[US09]</a> | Should | <a href="#Epicos">[EP04]</a> |
+|    <a href="#US10">[US10]</a>    |   Funcional   | Usuário | Reportar as divergências no contrato | eu possa informar quais são as divergencias no contrato | <a href="#US10">[US10]</a> | Should | <a href="#Epicos">[EP04]</a> |
+|    <a href="#US11">[US11]</a>    |   Funcional   | Usuário | Ver gráficos dos meus contratos | eu possa ver os gráficos do contrato | <a href="#US11">[US11]</a> | Could | <a href="#Epicos">[EP04]</a> |
+|    <a href="#US12">[US12]</a>    |   Funcional   | Usuário | Solicitar seguro-desemprego | eu possa ter o feedback sobre a minha solicitação do seguro-desemprego | <a href="#US12">[US12]</a> | Must | <a href="#Epicos">[EP05]</a> |
+|    <a href="#US13">[US13]</a>    |   Funcional   | Usuário | Consultar benefício emergencial | eu possa ter o feedback sobre a minha solicitação do benefício emergencial | <a href="#US13">[US13]</a> | Must | <a href="#Epicos">[EP05]</a> |
+|    <a href="#US14">[US14]</a>    |   Funcional   | Usuário | Consultar abono salarial | eu possa ver informações sobre o abono salarial | <a href="#US14">[US14]</a> | Must | <a href="#Epicos">[EP05]</a> |
 
 ## 4. Critérios de Aceitação
 
@@ -220,4 +220,5 @@ Este documento tem como objetivo descrever todas as funcionalidades desejáveis 
 | Data       | Versão | Descrição            |         Autor           | Revisor |
 |------------|-----|-------------------------|-------------------------|---------|
 | 24/08/2021 | 0.1 | Criação do Documento com tema, épico e história de usuário. | Liverson Paulo | Denniel William |
-| 08/09/2021 | 0.2 | Adição dos critérios de aceitação, introdução ao documento e bibliografia. | Murilo Gomes e Lucas Rodrigues |  |
+| 08/09/2021 | 0.2 | Adição dos critérios de aceitação, introdução ao documento e bibliografia. | Murilo Gomes e Lucas Rodrigues | Denniel William |
+| 09/09/2021 | 1.0 | Adição da tabela backlog do produto e remoção da tabela de histórias de usuário | Denniel William |  |

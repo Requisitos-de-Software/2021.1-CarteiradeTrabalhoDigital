@@ -48,9 +48,12 @@ Em consenso com toda a equipe, foi selecionada a **Carteira de Trabalho Digital*
 | 1 - Pré - Rastreabilidade          | Planejamento e RichPicture                             | 23/07/2021 | 24/07/2021 a 30/07/2021 | 31/07/2021 |
 | 2 - Elicitação de Requisitos       | Técnicas e Priorização                                 | 06/08/2021 e 10/08/2021 | 10/08/2021 a 18/08/2021 | 20/08/2021 |
 | 3 - Modelagem de Requisitos        | Cenários, Léxico, Use Case e Especificação suplementar | 20/08/2021 e 24/08/2021 | 20/08/2021 a 26/08/2021 | 27/08/2021 |
-| 4 - Modelagem de Requisitos - Ágil | Histórias de Usuário, Backlogs e NFR framework         | 31/08/2021 e 03/09/2021 | 01/09/2021 a 09/09/2021 | 10/09/2021 |
+| 4 - Modelagem de Requisitos - Ágil | Histórias de Usuário, Backlogs e NFR framework         | 31/08/2021 e 03/09/2021 | 01/09/2021 a 08/09/2021 | 09/09/2021 |
+| 5 - Análise de Requisitos          | Verificação e Validação                                | 10/09/2021 e 14/09/2021 | 10/09/2021 a 15/09/2021 | 16/09/2021 |
 
-### Obs.: Para saber informações sobre os responsáveis por cada atividade, por favor acessar o tópico [Atas de Reunião](https://github.com/Requisitos-de-Software/2021.1-CarteiradeTrabalhoDigital/tree/develop/docs/Atas%20de%20Reuni%C3%A3o)
+<br/>
+
+### Obs.: Para saber informações sobre os responsáveis por cada atividade, por favor acessar o tópico Atas de Reunião.
 
 <br />
 

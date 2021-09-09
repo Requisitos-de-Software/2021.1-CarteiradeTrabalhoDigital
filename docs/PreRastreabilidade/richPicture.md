@@ -18,6 +18,13 @@
 
 **Figura 2**: Versão em diagrama do Rich Picture (Feito em 31/07)
 
+### Rich Picture v3 (Papel)
+
+
+![Rich Picture](../assets/richPicturev3.jpeg)
+
+**Figura 2**: Versão em diagrama do Rich Picture (Feito em 31/07)
+
 
 ## 3. Versionamento
 
@@ -27,3 +34,4 @@
 | 1.1.0  | Adição da primeira versão do Rich Picture | 03/08/2021 | Liverson Paulo                   | Denniel William |
 | 1.2.0  | Adição da segunda versão do Rich Picture  | 06/08/2021 | Giulia Lobo                      | Murilo Gomes    |
 | 1.2.1  | Adição de legenda nas figuras             | 06/08/2021 | Murilo Gomes                     | Rhuan Marques   |
+| 1.3.0  | Adição de nova versão do Rich Picture aplicado a regra de negócio  | 07/09/2021 | Denniel William | Rhuan Marques   |

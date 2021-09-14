@@ -25,7 +25,7 @@ Os léxicos são separados em quatro (4) classificações: _objeto, estado, suje
 
 <span id="ajuda"></span>
 
-#### Ajuda (FAQ)
+#### L01 - Ajuda (FAQ)
 
 | Nome              | Ajuda (FAQ)                                                  |
 | ----------------- | ------------------------------------------------------------ |
@@ -36,7 +36,7 @@ Os léxicos são separados em quatro (4) classificações: _objeto, estado, suje
 
 <span id="aloTrabalho"></span>
 
-#### Alô trabalho
+#### L02 - Alô trabalho
 
 | Nome              | Alô trabalho                                                 |
 | ----------------- | ------------------------------------------------------------ |
@@ -47,7 +47,7 @@ Os léxicos são separados em quatro (4) classificações: _objeto, estado, suje
 
 <span id="avaliar"></span>
 
-#### Avaliar
+#### L03 - Avaliar
 
 | Nome              | Avaliar                                                      |
 | ----------------- | ------------------------------------------------------------ |
@@ -58,7 +58,7 @@ Os léxicos são separados em quatro (4) classificações: _objeto, estado, suje
 
 <span id="beneficios"></span>
 
-#### Benefícios
+#### L04 - Benefícios
 
 | Nome              | Benefícios                                                   |
 | ----------------- | ------------------------------------------------------------ |
@@ -69,7 +69,7 @@ Os léxicos são separados em quatro (4) classificações: _objeto, estado, suje
 
 <span id="beneficioEmergencial"></span>
 
-#### Benefício Emergencial
+#### L05 - Benefício Emergencial
 
 | Nome              | Benefício Emergencial                                        |
 | ----------------- | ------------------------------------------------------------ |
@@ -80,7 +80,7 @@ Os léxicos são separados em quatro (4) classificações: _objeto, estado, suje
 
 <span id="carteiraDeTrabalho"></span>
 
-#### Carteira de Trabalho
+#### L06 - Carteira de Trabalho
 
 | Nome              | Carteira de Trabalho                                         |
 | ----------------- | ------------------------------------------------------------ |
@@ -91,7 +91,7 @@ Os léxicos são separados em quatro (4) classificações: _objeto, estado, suje
 
 <span id="carteiraDeTrabalhoDigital"></span>
 
-#### Carteira de Trabalho Digital
+#### L07 - Carteira de Trabalho Digital
 
 | Nome              | Carteira de Trabalho Digital                                 |
 | ----------------- | ------------------------------------------------------------ |
@@ -102,7 +102,7 @@ Os léxicos são separados em quatro (4) classificações: _objeto, estado, suje
 
 <span id="contratos"></span>
 
-#### Contratos
+#### L08 - Contratos
 
 | Nome              | Contratos                                                    |
 | ----------------- | ------------------------------------------------------------ |
@@ -113,7 +113,7 @@ Os léxicos são separados em quatro (4) classificações: _objeto, estado, suje
 
 <span id="divergenciasContrato"></span>
 
-#### Divergências de Contrato
+#### L09 - Divergências de Contrato
 
 | Nome              | Divergências de Contrato                                     |
 | ----------------- | ------------------------------------------------------------ |
@@ -124,7 +124,7 @@ Os léxicos são separados em quatro (4) classificações: _objeto, estado, suje
 
 <span id="enviar"></span>
 
-#### Enviar
+#### L10 - Enviar
 
 | Nome              | Enviar                                                       |
 | ----------------- | ------------------------------------------------------------ |
@@ -135,7 +135,7 @@ Os léxicos são separados em quatro (4) classificações: _objeto, estado, suje
 
 <span id="grafico"></grafico>
 
-#### Gráfico
+#### L11 - Gráfico
 
 | Nome              | Gráfico                                                   |
 | ----------------- | --------------------------------------------------------- |
@@ -146,7 +146,7 @@ Os léxicos são separados em quatro (4) classificações: _objeto, estado, suje
 
 <span id="notificacoes"></span>
 
-#### Notificações
+#### L12 - Notificações
 
 | Nome              | Notificações                                       |
 | ----------------- | -------------------------------------------------- |
@@ -157,7 +157,7 @@ Os léxicos são separados em quatro (4) classificações: _objeto, estado, suje
 
 <span id="seguroDesemprego"></span>
 
-#### Seguro-desemprego
+#### L13 - Seguro-desemprego
 
 | Nome              | Seguro-desemprego                                            |
 | ----------------- | ------------------------------------------------------------ |
@@ -168,7 +168,7 @@ Os léxicos são separados em quatro (4) classificações: _objeto, estado, suje
 
 <span id="usuario"></span>
 
-#### Usuário
+#### L14 - Usuário
 
 | Nome              | Usuário                                                      |
 | ----------------- | ------------------------------------------------------------ |

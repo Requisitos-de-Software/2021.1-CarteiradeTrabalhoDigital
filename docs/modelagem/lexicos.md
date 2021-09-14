@@ -187,3 +187,4 @@ Os léxicos são separados em quatro (4) classificações: _objeto, estado, suje
 | Data       | Versão | Descrição            |         Autor(es)           | Revisor |
 |------------|-----|-------------------------|-------------------------|---------|
 | 24/08/2021 | 0.1 | Criação do Documento com os Léxicos encontrados inicialmente  | Liverson Paulo e Murilo Gomes | Giulia Lobo |
+| 13/09/2021 | 0.2 | Criação dos links nos léxicos, adição dos léxicos de usuário e carteira de trabalho | Murilo Gomes | Giulia Lobo |

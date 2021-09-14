@@ -31,7 +31,7 @@ Os léxicos são separados em quatro (4) classificações: _objeto, estado, suje
 | ----------------- | ------------------------------------------------------------ |
 | **Sinônimos**     | Auxílio, assistência, apoio.                                 |
 | **Noção**         | Onde o <a href="#usuario">usuário</a> irá tirar suas dúvidas, ver questões frequentes e possivelmente encontrar seu problema entre eles. |
-| **Impacto**       | Ajudar o usuário a sanar dúvidas.                            |
+| **Impacto**       | Ajudar o <a href="#usuario">usuário</a> a sanar dúvidas.                            |
 | **Classificação** | Objeto                                                       |
 
 <span id="aloTrabalho"></span>

@@ -199,3 +199,4 @@ Pré-condição: Possuir conta registrada no aplicativo
 | Data       | Versão | Descrição            |         Autor           | Revisor |
 |------------|-----|-------------------------|-------------------------|---------|
 | 26/08/2021 | 1.0 | Criação do Documento, introdução, metodologia e cenários  | Denniel William | Rhuan Marques |
+| 13/09/2021 | 1.1 | Linkagem dos cenários com os léxicos | Murilo Gomes | Giulia Lobo |

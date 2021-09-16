@@ -38,6 +38,8 @@ Podem ser utilizadas em várias fases do processo, pois servem para alinhar info
 | Objetivo | Conseguir um bom emprego na área de arquitetura, e se destacar em sua área |
 | Expectativa | Animado para conseguir o seu primeiro emprego, e preocupado com a possibilidade de perder algum documento |
 
+### 2.3 Joaquim Silva Barbosa
+
 | Característica | Descrição
 | :--- | :--- | 
 | Foto |  <img src="../../assets/joaquimbarbosa.jfif" width="100">  |

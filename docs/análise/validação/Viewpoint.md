@@ -124,5 +124,5 @@ A solução B contém menos discrepâncias, por isso ela pode ser utilizada como
 
 | Data       | Versão | Descrição            |         Autor           | Revisor |
 |------------|-----|-------------------------|-------------------------|---------|
-| 16/09/2021 | 1.0 | Criação do Documento com os Viewpoints e suas devidas explicações e conclusões  | Murilo Gomes |  |
+| 16/09/2021 | 1.0 | Criação do Documento com os Viewpoints e suas devidas explicações e conclusões  | Murilo Gomes | Giulia Lobo |
 

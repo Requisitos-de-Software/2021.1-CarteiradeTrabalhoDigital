@@ -102,6 +102,7 @@ Hierarquia:
     * Objeto - foto (A)
     * Objeto - empresa (A)
     * Ação - solicitar benefício (A e B)
+    * Ação - emitir carteira em PDF (A e B)
     * Objeto - notificações (A e B)
 
 * Inconsistências
@@ -111,7 +112,7 @@ Hierarquia:
 
 Esta fase consiste em propor uma solução que integra as partes certas dos dois ViewPoints e que corrija os erros encontrados nas mesmas.
 
-A solução B contém menos discrepâncias, por isso ela pode ser utilizada como base, para obter a melhor solução, basta adicionar as informações faltantes em B (solicitar benefício e notificações) e fazer com que um contrato faça parte da carteira de trabalho e não diretamente do usuário.
+A solução B contém menos discrepâncias, por isso ela pode ser utilizada como base, para obter a melhor solução, basta adicionar as informações faltantes em B (solicitar benefício, emitir carteira e notificações) e fazer com que um contrato faça parte da carteira de trabalho e não diretamente do usuário.
 
 ## 7. Referências
 

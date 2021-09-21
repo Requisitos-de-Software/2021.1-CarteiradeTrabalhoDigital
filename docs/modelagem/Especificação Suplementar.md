@@ -55,11 +55,11 @@ Os requisitos de suportabilidade envolvem a manutenibilidade, compatibilidade, c
 
 * O aplicativo deverá funcionar nos smartphones que estejam sistema Android e IOS.
 
-## 6. Suportabilidade
-
-* O código é totalmente privado
-* Disponível para dispositivos moveis com sistema Android ou iOS.
-
-## 7. Privacidade
+## 5. Privacidade
 
 * Somente com o CPF e senha o usuário consegue acessar a sua conta no aplicativo da carteira de trabalho digital, o aplicativo também conta com o termo de uso e política de privacidade de pessoa pública, que estabelece uma relação de cofiança entre o usuário e o aplicativo. 
+
+## 6. Bibliografia
+
+* FURPS, Wikipedia. Disponível em: https://en.wikipedia.org/wiki/FURPS 
+

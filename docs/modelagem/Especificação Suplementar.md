@@ -14,11 +14,7 @@
 
 ## 4. Metodologia
 
-<<<<<<< HEAD
-## 4. Funcionalidade 
-=======
 FURPS+ é um sistema para a classificação de requisitos, o acrônimo representa categorias que podem ser usadas na definição de requisitos, assim como representa atributos de Qualidade de Software:
->>>>>>> EspecificaçãoSuplementar
 
 ## 4.1 Functionality (Funcionalidade)
 

@@ -22,7 +22,7 @@ A inspeção é um método de verificação no qual são analisados documentos d
 
 ### 2.4 Elicitação (storytelling)
 
-![](../../assets/Inspecao_storytelling.jpeg)
+![](../../assets/Inspecao_Storytelling.jpeg)
 
 ### 2.5 Especificação suplementar
 

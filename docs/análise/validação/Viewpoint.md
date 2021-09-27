@@ -95,15 +95,15 @@ Hierarquia:
 ## 5. Discrepâncias
 
 * Informação Errada
-    * No ViewPoint B o contrato faz parte de usuário, sendo que, um contrato trabalhista é sempre associado com a carteira de trabalho;
-    * No ViewPoint A as informações da empresa fazem parte diretamente do contrato, sendo que empresa poderia ser um objeto e o contrato fazer parte da empresa.
+    * No ViewPoint B o <a href="../lexicos#contratos">contrato</a> faz parte de <a href="../lexicos#usuario">usuário</a>, sendo que, um <a href="../lexicos#contratos">contrato</a> trabalhista é sempre associado com a <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a>;
+    * No ViewPoint A as informações da empresa fazem parte diretamente do <a href="../lexicos#contratos">contrato</a>, sendo que empresa poderia ser um objeto e o <a href="../lexicos#contratos">contrato</a> fazer parte da empresa.
 
 * Informação Faltante
     * Objeto - foto (A)
     * Objeto - empresa (A)
-    * Ação - solicitar benefício (A e B)
-    * Ação - emitir carteira em PDF (A e B)
-    * Objeto - notificações (A e B)
+    * Ação - <a href="../casos-de-uso#solicitarBeneficios">solicitar benefícios</a> (A e B)
+    * Ação - <a href="../casos-de-uso#emitir">emitir carteira de trabalho em PDF</a> (A e B)
+    * Objeto - <a href="../lexicos#notificacoes">notificações</a> (A e B)
 
 * Inconsistências
     * Não foi encontrada nenhuma inconsistência em nenhum dos ViewPoints.
@@ -112,7 +112,7 @@ Hierarquia:
 
 Esta fase consiste em propor uma solução que integra as partes certas dos dois ViewPoints e que corrija os erros encontrados nas mesmas.
 
-A solução B contém menos discrepâncias, por isso ela pode ser utilizada como base, para obter a melhor solução, basta adicionar as informações faltantes em B (solicitar benefício, emitir carteira e notificações) e fazer com que um contrato faça parte da carteira de trabalho e não diretamente do usuário.
+A solução B contém menos discrepâncias, por isso ela pode ser utilizada como base, para obter a melhor solução, basta adicionar as informações faltantes em B (<a href="../casos-de-uso#solicitarBeneficios">solicitar benefícios</a>, <a href="../casos-de-uso#emitir">emitir carteira</a> e <a href="../lexicos#notificacoes">notificações</a>) e fazer com que um <a href="../lexicos#contratos">contrato</a> faça parte da <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a> e não diretamente do <a href="../lexicos#usuario">usuário</a>.
 
 ## 7. Referências
 
@@ -125,4 +125,5 @@ A solução B contém menos discrepâncias, por isso ela pode ser utilizada como
 | Data       | Versão | Descrição            |         Autor           | Revisor |
 |------------|-----|-------------------------|-------------------------|---------|
 | 16/09/2021 | 1.0 | Criação do Documento com os Viewpoints e suas devidas explicações e conclusões  | Murilo Gomes | Giulia Lobo |
+| 27/09/2021 | 1.1 | Rastreabilidade do projeto  | Liverson Paulo e Giulia Lobo | Murilo Gomes |
 

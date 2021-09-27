@@ -15,7 +15,7 @@ Comprovação informal se baseia em uma metodologia para conseguir validar as fu
 
 Não há bem uma maneira de se aplicar, o forma padrão de se fazer a comprovação informal. Contudo, comprovação informal em sua definição se tem como uma leitura de descrições feita em linguagem natural e do uso dos clientes para identificar problemas na expressão dos requisitos. 
 
-De forma a obter os feedbacks e para a validação das funcionalidades implementadas no produto, a metodologia utilizada foi uma filtragem da equipe quanto a comentários pertinentes dos usuários do aplicativo, esses comentários foram obtidos através das lojas "Google Store" e "Apple Store"
+De forma a obter os feedbacks e para a validação das funcionalidades implementadas no produto, a metodologia utilizada foi uma filtragem da equipe quanto a comentários pertinentes dos <a href="../lexicos#usuario">usuários</a> do aplicativo, esses comentários foram obtidos através das lojas "Google Store" e "Apple Store"
 
 ## 4. Comentários filtrados
 
@@ -34,3 +34,4 @@ De forma a obter os feedbacks e para a validação das funcionalidades implement
 | Data       | Versão | Descrição            |         Autor           | Revisor |
 |------------|-----|-------------------------|-------------------------|---------|
 | 14/09/2021 | 1.0 | Criação do Documento com objetivo, introdução, metodologia e comentários filtrados  | denniel William | Murilo Gomes |
+| 27/09/2021 | 1.1 | Rastreabilidade do projeto  | Liverson Paulo e Giulia Lobo | Murilo Gomes |

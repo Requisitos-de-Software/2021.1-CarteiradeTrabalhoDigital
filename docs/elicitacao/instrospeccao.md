@@ -21,5 +21,5 @@ Introspecção é uma técnica muito rica e profunda. Consiste em entender quais
 
 | Data | Versão | Descrição | Autor(es)| Revisor(es)|
 |--------|----------|-----|----------|------------|
-| 20/08/2021 | 1.0| Criação do documento | Denniel William e Rhuan Marques | Liverson Paulo e Lucas Rodrigues |
+| 20/08/2021 | 1.0 | Criação do documento | Denniel William e Rhuan Marques | Liverson Paulo e Lucas Rodrigues |
 | 26/09/2021 | 1.1 | Rastreabilidade do projeto  | Liverson Paulo e Giulia Lobo | Murilo Gomes |

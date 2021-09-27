@@ -30,8 +30,8 @@
 
 | Versão | Descrição                                 | Data       | Autor(es)                        | Revisor(es)     |
 | ------ | ----------------------------------------- | ---------- | -------------------------------- | --------------- |
-| 1.0.0  | Criação da primeira versão do documento   | 03/08/2021 | Liverson Paulo e Lucas Rodrigues | Giulia Lobo     |
-| 1.1.0  | Adição da primeira versão do Rich Picture | 03/08/2021 | Liverson Paulo                   | Denniel William |
-| 1.2.0  | Adição da segunda versão do Rich Picture  | 06/08/2021 | Giulia Lobo                      | Murilo Gomes    |
-| 1.2.1  | Adição de legenda nas figuras             | 06/08/2021 | Murilo Gomes                     | Rhuan Marques   |
-| 1.3.0  | Adição de nova versão do Rich Picture aplicado a regra de negócio  | 07/09/2021 | Denniel William | Rhuan Marques   |
+| 03/08/2021 | 1.0   | Criação da primeira versão do documento | Liverson Paulo e Lucas Rodrigues | Giulia Lobo     |
+| 03/08/2021  | 1.1 | Adição da primeira versão do Rich Picture | Liverson Paulo                   | Denniel William |
+| 06/08/2021  | 1.2  | Adição da segunda versão do Rich Picture | Giulia Lobo                      | Murilo Gomes    |
+| 06/08/2021  |       1.3       | Adição de legenda nas figuras | Murilo Gomes                     | Rhuan Marques   |
+| 07/09/2021  | 1.4  | Adição de nova versão do Rich Picture aplicado a regra de negócio | Denniel William | Rhuan Marques   |

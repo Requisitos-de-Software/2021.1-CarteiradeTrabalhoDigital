@@ -54,7 +54,7 @@ Em consenso com toda a equipe, foi selecionada a **Carteira de Trabalho Digital*
 
 <br/>
 
-### Obs.: Para saber informações sobre os responsáveis por cada atividade, por favor acessar o tópico Atas de Reunião.
+### Obs.: Para saber informações sobre os responsáveis por cada atividade, por favor acessar o tópico <a href = "../Atas de Reunião">Atas de Reunião</a>.
 
 <br />
 
@@ -119,8 +119,14 @@ Outras reuniões fora desses horários podem ocorrer de acordo com a necessidade
 
 ## 6. Versionamento
 
-| Versão | Descrição                               | Data       | Autor(es)              | Revisor(es)                   |
+| Data       | Versão | Descrição            |         Autor           | Revisor |
 | ------ | --------------------------------------- | ---------- | ---------------------- | ----------------------------- |
-| 1.0.0 | Criação da primeira versão do documento | 03/08/2021 | Todos os participantes | Murilo Gomes e Liverson Paulo |
-| 1.1.0 | Atualização do cronograma das atividades | 19/08/2021 | Giulia Lobo | Denniel William |
+| 03/08/2021 | 1.0 | Criação da primeira versão do documento | Todos os participantes | Murilo Gomes e Liverson Paulo |
+| 19/08/2021 | 1.1 | Atualização do cronograma das atividades | Giulia Lobo | Denniel William |
+| 26/08/2021 | 1.2 | Atualização do cronograma das atividades | Giulia Lobo | Murilo Gomes |
+| 03/09/2021 | 1.3 | Atualização do cronograma das atividades | Giulia Lobo | Liverson Paulo |
+| 06/09/2021 | 1.4 | Atualização do cronograma das atividades | Giulia Lobo | Denniel William |
+| 14/09/2021 | 1.5 | Atualização do cronograma das atividades | Giulia Lobo | Denniel William |
+| 17/09/2021 | 1.6 | Atualização do cronograma das atividades | Giulia Lobo | Murilo Gomes |
+| 27/09/2021 | 1.7 | Atualização do link para as atas de reunião | Giulia Lobo | Murilo Gomes |
 

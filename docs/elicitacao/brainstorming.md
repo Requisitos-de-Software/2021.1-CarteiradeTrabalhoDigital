@@ -17,6 +17,7 @@ Após isso, os membros foram respondendo a pergunta e preenchendo quadros no sit
 Depois de preenchidos todos os quadros, o grupo filtrou os requisitos e chegou à conclusão mostrada a seguir:
 
 ![](../../assets/brainstorm.png)
+**Figura 1:** Requisitos Brainstorming. **Fonte:** Autores.
 
 # 3. Bibliografia
 

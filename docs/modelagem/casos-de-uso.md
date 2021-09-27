@@ -16,7 +16,7 @@
 
 ### 3.1 Versão 1.0
 
-<img src="../assets/caso_de_uso.jpg"/>
+<img src="../../assets/caso_de_uso.jpg"/>
 <br/>
 
 **Figura 1:** Diagrama de casos de uso. 
@@ -24,7 +24,7 @@
 
 ### 3.2 Versão 2.0
 
-<img src="../assets/caso_de_uso_v2.jpg"/>
+<img src="../../assets/caso_de_uso_v2.jpg"/>
 <br/>
 
 **Figura 1:** Diagrama de casos de uso v2. 

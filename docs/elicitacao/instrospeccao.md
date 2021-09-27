@@ -6,19 +6,20 @@ Introspecção é uma técnica muito rica e profunda. Consiste em entender quais
 
 ## 2. Resultado:
 
-- Criar uma conta (carteira de trabalho)
+- Criar uma conta (<a href="../../modelagem/lexicos#carteiraDeTrabalho">carteira de trabalho</a>)
 - Logar com essa conta
 - Armazenar dados offline
 - Pedir alteração da informação do contrato caso esteja errada
-- Gerar em CTPS em pdf com contratos escolhidos pelo usuário
-- Visualizar contratos da carteira de trabalho
+- Gerar em CTPS em pdf com <a href="../lexicos#contratos">contratos</a> escolhidos pelo <a href="../../modelagem/lexicos#usuario">usuário</a>
+- Visualizar <a href="../lexicos#contratos">contratos</a> da <a href="../../modelagem/lexicos#carteiraDeTrabalho">carteira de trabalho</a>
 - Visualizar perfil e atualizar um perfil
 - Montar um currículo
-- Empresas acessar o perfil e contratos do indivíduo para contratação
+- Empresas acessar o perfil e <a href="../lexicos#contratos">contratos</a> do indivíduo para contratação
 - Anotações no contrato
 
 ## 3. Versionamento
 
-| Versão | Descrição| Data| Autor(es)| Revisor(es)|
+| Data | Versão | Descrição | Autor(es)| Revisor(es)|
 |--------|----------|-----|----------|------------|
-| 1.0.0 | Criação do documento| 20/08/2021 | Denniel William e Rhuan Marques | Liverson Paulo e Lucas Rodrigues |
+| 20/08/2021 | 1.0| Criação do documento | Denniel William e Rhuan Marques | Liverson Paulo e Lucas Rodrigues |
+| 26/09/2021 | 1.1 | Rastreabilidade do projeto  | Liverson Paulo e Giulia Lobo | Murilo Gomes |

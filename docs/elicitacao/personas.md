@@ -85,8 +85,8 @@ Podem ser utilizadas em várias fases do processo, pois servem para alinhar info
 
 ## 5. Versionamento
 
-| Versão | Descrição| Data| Autor(es)| Revisor(es)|
+| Data | Versão| Descrição| Autor(es)| Revisor(es)|
 |--------|----------|-----|----------|------------|
-| 1.0.0 | Criação do documento| 17/08/2021 | Liverson Paulo e Lucas Rodrigues | Giulia Lobo e Murilo Gomes |
-| 1.1.0 | Adição de persona da dupla | 19/08/2021 | Denniel William e Rhuan Marques | Liverson Paulo e Lucas Rodrigues |
-| 1.2.0 | Adição de persona da dupla | 20/08/2021 | Giulia Lobo e Murilo Gomes | Denniel William e Rhuan Marques |
+| 17/08/2021 | 1.0| Criação do documento | Liverson Paulo e Lucas Rodrigues | Giulia Lobo e Murilo Gomes |
+| 19/08/2021 | 1.1 | Adição de persona da dupla | Denniel William e Rhuan Marques | Liverson Paulo e Lucas Rodrigues |
+| 20/08/2021 | 1.2 | Adição de persona da dupla | Giulia Lobo e Murilo Gomes | Denniel William e Rhuan Marques |

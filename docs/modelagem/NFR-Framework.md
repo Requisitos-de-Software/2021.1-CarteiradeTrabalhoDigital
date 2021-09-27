@@ -51,5 +51,6 @@
 
 | Data       | Versão | Descrição            |         Autor           | Revisor |
 |------------|-----|-------------------------|-------------------------|---------|
-| 07/09/2021 | 0.1 | Criação do Documento com tema, épico e história de usuário  | Liverson Paulo e Rhuan Marques | Denniel William |
+| 07/09/2021 | 0.1 | Criação do Documento com tema, épico e história de <a href="../lexicos#usuario">usuário</a>  | Liverson Paulo e Rhuan Marques | Denniel William |
 | 07/09/2021 | 0.2 | Adição dos requisitos | Liverson Paulo e Rhuan Marques | Denniel William |
+| 26/09/2021 | 1.1 | Rastreabilidade do projeto  | Liverson Paulo e Giulia Lobo | Murilo Gomes |

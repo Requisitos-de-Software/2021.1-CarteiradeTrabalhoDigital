@@ -13,7 +13,7 @@ Cenários é uma estratégia reconhecida para compreender as interações entre 
 ### C01 - Cadastrar usuário tendo registro e <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a> física
 
 - **Objetivo:** Cadastrar <a href="../lexicos#usuario">usuário</a> de forma a obter as informações da <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a> pelo aplicativo
-- **Contexto:** 
+- **Contexto:**
 Local - Casa
 Tempo - 1 a 5 minutos
 Pré-condição: Possuir um registro e/ou <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a> física
@@ -70,7 +70,7 @@ Pré-condição: Possuir conta registrada no aplicativo
 - **Exceções:** Não possuir aparelho que suporte aplicativos Android ou IOS, Sistema Indisponível, não possuir registro de trabalho na <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a>.
 - **Episódios:** <a href="../lexicos#usuario">Usuário</a> deseja visualizar os registros de trabalho anteriores como também os antigos registrados em sua <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a>.
 
-### C06 - Solicitar <a href="../lexicos#ajuda">Ajuda</a>
+### C06 - <a href="../casos-de-uso#solicitarAjuda">Solicitar Ajuda</a>
 
 - **Objetivos:** Solicitar ajuda para o caso de qualquer dúvida no processo da <a href="../lexicos#carteiraDeTrabalhoDigital">carteira de trabalho digital</a> como também do uso do aplicativo ****
 - **Contexto:** 
@@ -200,3 +200,4 @@ Pré-condição: Possuir conta registrada no aplicativo
 |------------|-----|-------------------------|-------------------------|---------|
 | 26/08/2021 | 1.0 | Criação do Documento, introdução, metodologia e cenários  | Denniel William | Rhuan Marques |
 | 13/09/2021 | 1.1 | Linkagem dos cenários com os léxicos | Murilo Gomes | Giulia Lobo |
+| 26/09/2021 | 1.1 | Rastreabilidade do projeto  | Liverson Paulo e Giulia Lobo | Murilo Gomes |

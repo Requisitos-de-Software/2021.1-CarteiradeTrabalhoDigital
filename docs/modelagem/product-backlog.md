@@ -2,212 +2,212 @@
 
 ## 1. Introdução
 
-Este documento tem como objetivo descrever todas as funcionalidades desejáveis no aplicativo da Carteira de Trabalho Digital, sendo que as funcionalidades devem ser descritas através de épicos e histórias de usuários, se encontram os seguintes itens:
+Este documento tem como objetivo descrever todas as funcionalidades desejáveis no aplicativo da <a href="../lexicos#carteiraDeTrabalhoDigital">carteira de Trabalho Digital</a>, sendo que as funcionalidades devem ser descritas através de épicos e histórias de <a href="../lexicos#usuario">usuários</a>, se encontram os seguintes itens:
 
-* **Tema** em que se encontra o usuário;
-* **Épicos**: Pode englobar várias histórias de usuário;
-* **ID**: Identificação da história de usuário (US - User Story);
-* Descrição das histórias de usuários com as seguintes colunas:
+* **Tema** em que se encontra o <a href="../lexicos#usuario">usuário</a>;
+* **Épicos**: Pode englobar várias histórias de <a href="../lexicos#usuario">usuário</a>;
+* **ID**: Identificação da história de <a href="../lexicos#usuario">usuário</a> (US - User Story);
+* Descrição das histórias de <a href="../lexicos#usuario">usuários</a> com as seguintes colunas:
     * Eu como...;
     * Desejo...;
     * De modo que...;
-* **Critérios de Aceitação** para cada história de usuário;
-* **Prioridade** de cada história de usuário seguindo a técnica de priorização MoSCoW;
+* **Critérios de Aceitação** para cada história de <a href="../lexicos#usuario">usuário</a>;
+* **Prioridade** de cada história de <a href="../lexicos#usuario">usuário</a> seguindo a técnica de priorização MoSCoW;
 
 ## 2. Tema
 | ID | DESCRIÇÃO |
 |----|-----------|
-| TM01 | Usuário |
+| TM01 | <a href="../lexicos#usuario">usuário</a> |
 
 ## 2. Épicos <span id="Epicos"> </span>
 | ID | DESCRIÇÃO | ID RELACIONADO (TEMA) |
 |----|-----------|----------------|
-| EP01 | Eu como visitante ou usuário, desejo administrar uma conta na carteira de trabalho digital | TM01 |
-| EP02 | Eu como usuário, desejo solicitar ajuda pela carteira de trabalho digital caso necessário | TM01 |
-| EP03 | Eu como usuário, desejo compartilhar minhas informações de contratos | TM01 |
-| EP04 | Eu como usuário, desejo ter informações dos meus contratos | TM01 |
-| EP05 | Eu como usuário, desejo solicitar benefícios pela carteira de trabalho digital | TM01 |
+| EP01 | Eu como visitante ou <a href="../lexicos#usuario">usuário</a>, desejo administrar uma conta na <a href="../lexicos#carteiraDeTrabalhoDigital">carteira de Trabalho Digital</a> | TM01 |
+| EP02 | Eu como <a href="../lexicos#usuario">usuário</a>, desejo <a href="../casos-de-uso#solicitarAjuda">solicitar ajuda</a> pela <a href="../lexicos#carteiraDeTrabalhoDigital">carteira de Trabalho Digital</a> caso necessário | TM01 |
+| EP03 | Eu como <a href="../lexicos#usuario">usuário</a>, desejo compartilhar minhas informações de <a href="../lexicos#contratos">contratos</a> | TM01 |
+| EP04 | Eu como <a href="../lexicos#usuario">usuário</a>, desejo ter informações dos meus <a href="../lexicos#contratos">contratos</a> | TM01 |
+| EP05 | Eu como <a href="../lexicos#usuario">usuário</a>, desejo <a href="../casos-de-uso#solicitarBeneficios">Solicitar benefícios</a> pela <a href="../lexicos#carteiraDeTrabalhoDigital">carteira de Trabalho Digital</a> | TM01 |
 
 ## 3. Tabela do Backlog
 
 |    ID   |      Tipo     |     Eu como    |      Desejo       | De modo que | Critérios de Aceitação | Prioridade | ID RELACIONADO (ÉPICO) |
 |-------|-------------|--------------|-----------------|-----------|----------|---------|---------|
-|    <a href="#US01">[US01]</a>    |   Funcional   | Usuário | Fazer o cadastro de usuário | eu consiga me cadastrar | <a href="#US01">[US01]</a> | Must | <a href="#Epicos">[EP01]</a> |
-|    <a href="#US02">[US02]</a>    |   Funcional   | Usuário | Fazer o Login de usuário | eu consiga logar na minha conta | <a href="#US02">[US02]</a> | Must | <a href="#Epicos">[EP01]</a> |
-|    <a href="#US03">[US03]</a>    |   Funcional   | Usuário | Fazer o Logout de usuário | eu consiga sair | <a href="#US03">[US03]</a> | Must | <a href="#Epicos">[EP01]</a> |
-|    <a href="#US04">[US04]</a>    |   Funcional   | Usuário | Fazer perguntas sobre a carteira de trabalho digital | eu possa sanar minhas dúvidas sobre a carteira de trabalho digital | <a href="#US04">[US04]</a> | Must | <a href="#Epicos">[EP02]</a> |
-|    <a href="#US05">[US05]</a>    |   Funcional   | Usuário | Fazer perguntas sobre o seguro-desemprego | eu possa sanar minhas dúvidas sobre o seguro-desemprego | <a href="#US05">[US05]</a> | Must | <a href="#Epicos">[EP02]</a> |
-|    <a href="#US06">[US06]</a>    |   Funcional   | Usuário | Emitir carteira de trabalho em PDF | eu consiga compartilhar o PDF da carteira de trabalho | <a href="#US06">[US06]</a> | Must | <a href="#Epicos">[EP03]</a> |
-|    <a href="#US07">[US07]</a>    |   Funcional   | Usuário | Ver os registros de trabalho | eu consiga ver os meus registros | <a href="#US07">[US07]</a> | Must | <a href="#Epicos">[EP04]</a> |
-|    <a href="#US08">[US08]</a>    |   Funcional   | Usuário | Ver os meus contratos | eu possa ver todos os meus contratos | <a href="#US08">[US08]</a> | Must | <a href="#Epicos">[EP04]</a> |
-|    <a href="#US09">[US09]</a>    |   Funcional   | Usuário | Ver anotações de contrato | eu possa ver as anotações dos meus contratos | <a href="#US09">[US09]</a> | Should | <a href="#Epicos">[EP04]</a> |
-|    <a href="#US10">[US10]</a>    |   Funcional   | Usuário | Reportar as divergências no contrato | eu possa informar quais são as divergencias no contrato | <a href="#US10">[US10]</a> | Should | <a href="#Epicos">[EP04]</a> |
-|    <a href="#US11">[US11]</a>    |   Funcional   | Usuário | Ver gráficos dos meus contratos | eu possa ver os gráficos do contrato | <a href="#US11">[US11]</a> | Could | <a href="#Epicos">[EP04]</a> |
-|    <a href="#US12">[US12]</a>    |   Funcional   | Usuário | Solicitar seguro-desemprego | eu possa ter o feedback sobre a minha solicitação do seguro-desemprego | <a href="#US12">[US12]</a> | Must | <a href="#Epicos">[EP05]</a> |
-|    <a href="#US13">[US13]</a>    |   Funcional   | Usuário | Consultar benefício emergencial | eu possa ter o feedback sobre a minha solicitação do benefício emergencial | <a href="#US13">[US13]</a> | Must | <a href="#Epicos">[EP05]</a> |
-|    <a href="#US14">[US14]</a>    |   Funcional   | Usuário | Consultar abono salarial | eu possa ver informações sobre o abono salarial | <a href="#US14">[US14]</a> | Must | <a href="#Epicos">[EP05]</a> |
+|    <a href="#US01">[US01]</a>    |   Funcional   | <a href="../lexicos#usuario">usuário</a> | <a href=../casos-de-uso#fazerCadastro>Fazer o cadastro</a> de <a href="../lexicos#usuario">usuário</a> | eu consiga me cadastrar | <a href="#US01">[US01]</a> | Must | <a href="#Epicos">[EP01]</a> |
+|    <a href="#US02">[US02]</a>    |   Funcional   | <a href="../lexicos#usuario">usuário</a> | Fazer o Login de <a href="../lexicos#usuario">usuário</a> | eu consiga logar na minha conta | <a href="#US02">[US02]</a> | Must | <a href="#Epicos">[EP01]</a> |
+|    <a href="#US03">[US03]</a>    |   Funcional   | <a href="../lexicos#usuario">usuário</a> | <a href="../casos-de-uso#fazerLogout">Fazer o logout</a> de <a href="../lexicos#usuario">usuário</a> | eu consiga sair | <a href="#US03">[US03]</a> | Must | <a href="#Epicos">[EP01]</a> |
+|    <a href="#US04">[US04]</a>    |   Funcional   | <a href="../lexicos#usuario">usuário</a> | Fazer perguntas sobre a <a href="../lexicos#carteiraDeTrabalhoDigital">carteira de Trabalho Digital</a> | eu possa sanar minhas dúvidas sobre a <a href="../lexicos#carteiraDeTrabalhoDigital">carteira de Trabalho Digital</a> | <a href="#US04">[US04]</a> | Must | <a href="#Epicos">[EP02]</a> |
+|    <a href="#US05">[US05]</a>    |   Funcional   | <a href="../lexicos#usuario">usuário</a> | Fazer perguntas sobre o <a href="../lexicos#seguroDesemprego">seguro-desemprego</a> | eu possa <a href="../casos-de-uso#duvidaSeguro">tirar minhas dúvidas sobre o seguro-desemprego</a> | <a href="#US05">[US05]</a> | Must | <a href="#Epicos">[EP02]</a> |
+|    <a href="#US06">[US06]</a>    |   Funcional   | <a href="../lexicos#usuario">usuário</a> | <a href="../casos-de-uso#emitir">Emitir carteira de trabalho</a> em PDF | eu consiga compartilhar o PDF da <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a> | <a href="#US06">[US06]</a> | Must | <a href="#Epicos">[EP03]</a> |
+|    <a href="#US07">[US07]</a>    |   Funcional   | <a href="../lexicos#usuario">usuário</a> | Ver os registros de trabalho | eu consiga ver os meus registros | <a href="#US07">[US07]</a> | Must | <a href="#Epicos">[EP04]</a> |
+|    <a href="#US08">[US08]</a>    |   Funcional   | <a href="../lexicos#usuario">usuário</a> | Ver os meus <a href="../lexicos#contratos">contratos</a> | eu possa ver todos os meus <a href="../lexicos#contratos">contratos</a> | <a href="#US08">[US08]</a> | Must | <a href="#Epicos">[EP04]</a> |
+|    <a href="#US09">[US09]</a>    |   Funcional   | <a href="../lexicos#usuario">usuário</a> | Ver anotações de contrato | eu possa ver as anotações dos meus <a href="../lexicos#contratos">contratos</a> | <a href="#US09">[US09]</a> | Should | <a href="#Epicos">[EP04]</a> |
+|    <a href="#US10">[US10]</a>    |   Funcional   | <a href="../lexicos#usuario">usuário</a> | Reportar as divergências no contrato | eu possa informar quais são as divergencias no contrato | <a href="#US10">[US10]</a> | Should | <a href="#Epicos">[EP04]</a> |
+|    <a href="#US11">[US11]</a>    |   Funcional   | <a href="../lexicos#usuario">usuário</a> | Ver <a href="../lexicos#grafico">gráficos</a> dos meus <a href="../lexicos#contratos">contratos</a> | eu possa ver os <a href="../lexicos#grafico">gráficos</a> do contrato | <a href="#US11">[US11]</a> | Could | <a href="#Epicos">[EP04]</a> |
+|    <a href="#US12">[US12]</a>    |   Funcional   | <a href="../lexicos#usuario">usuário</a> | Solicitar <a href="../lexicos#seguroDesemprego">seguro-desemprego</a> | eu possa ter o feedback sobre a minha solicitação do <a href="../lexicos#seguroDesemprego">seguro-desemprego</a> | <a href="#US12">[US12]</a> | Must | <a href="#Epicos">[EP05]</a> |
+|    <a href="#US13">[US13]</a>    |   Funcional   | <a href="../lexicos#usuario">usuário</a> | <a href="../casos-de-uso#consultarBeneficio">Consultar Benefício emergencial</a> | eu possa ter o feedback sobre a minha solicitação do <a href="../lexicos#beneficioEmergencial">Benefício emergencial</a> | <a href="#US13">[US13]</a> | Must | <a href="#Epicos">[EP05]</a> |
+|    <a href="#US14">[US14]</a>    |   Funcional   | <a href="../lexicos#usuario">usuário</a> | <a href="../casos-de-uso#consultarAbono">Consultar Abono Salarial</a> | eu possa ver informações sobre o <a href="../lexicos#abonoSalarial">Abono Salarial</a> | <a href="#US14">[US14]</a> | Must | <a href="#Epicos">[EP05]</a> |
 
 ## 4. Critérios de Aceitação
 
 <span id="US01"> </span>
 
-### <a href="#US01">[US01]</a> Eu, como usuário,desejo fazer o cadastro de usuário
+### <a href="#US01">[US01]</a> Eu, como <a href="../lexicos#usuario">usuário</a>,desejo <a href=../casos-de-uso#fazerCadastro>fazer o cadastro</a> de <a href="../lexicos#usuario">usuário</a>
 
 #### Critérios de aceitação:
 
-- O usuário deve ser redirecionado para o sistema de cadastro .gov.br ao entrar no aplicativo sem nenhum cadastro
+- O <a href="../lexicos#usuario">usuário</a> deve ser redirecionado para o sistema de cadastro .gov.br ao entrar no aplicativo sem nenhum cadastro
 - Ter uma validação do cpf digitado para cadastro
 - Ter uma validação do nome digitado para cadastro
 - Ter uma validação do e-mail digitado para cadastro
 - Ter uma validação do telefone digitado para cadastro
 - Ter uma validação da senha digitada para cadastro
-- O usuário deve aceitar os termos de uso e políticas de usuário
-- O usuário deve responder perguntas sobre informações contidas no seu cpf para validar sua identidade
-- O usuário deve ser redirecionado para a página de login e, depois do login, ele é considerado como usuário.
+- O <a href="../lexicos#usuario">usuário</a> deve aceitar os termos de uso e políticas de <a href="../lexicos#usuario">usuário</a>
+- O <a href="../lexicos#usuario">usuário</a> deve responder perguntas sobre informações contidas no seu cpf para validar sua identidade
+- O <a href="../lexicos#usuario">usuário</a> deve ser redirecionado para a página de login e, depois do login, ele é considerado como <a href="../lexicos#usuario">usuário</a>.
 
 
 
 <span id="US02"> </span> 
 
-### <a href="#US02">[US02]</a> - Eu como usuário, desejo fazer meu login para ter o acesso de usuário
+### <a href="#US02">[US02]</a> - Eu como <a href="../lexicos#usuario">usuário</a>, desejo fazer meu login para ter o acesso de <a href="../lexicos#usuario">usuário</a>
 
 #### Critérios de Aceitação:
 
-- Redirecionar o usuário para o sistema de login .gov.br
+- Redirecionar o <a href="../lexicos#usuario">usuário</a> para o sistema de login .gov.br
 
 - Ter uma validação para o CPF digitado para login
 
 - Ter uma validação para a senha digitada para login
 
-- Redirecionar o usuário para dentro do aplicativo.
+- Redirecionar o <a href="../lexicos#usuario">usuário</a> para dentro do aplicativo.
 
   
 
 <span id="US03"> </span>
 
-### <a href="#US03">[US03]</a> - Eu como usuário, desejo fazer o logout de usuário
+### <a href="#US03">[US03]</a> - Eu como <a href="../lexicos#usuario">usuário</a>, desejo <a href="../casos-de-uso#fazerLogout">fazer o logout</a> de <a href="../lexicos#usuario">usuário</a>
 
 #### Critérios de Aceitação:
 
-- Deve existir uma opção para o usuário fazer o logout de sua conta
-- O usuário deve ser redirecionado para a página de login após fazer o logout
+- Deve existir uma opção para o <a href="../lexicos#usuario">usuário</a> <a href="../casos-de-uso#fazerLogout">fazer o logout</a> de sua conta
+- O <a href="../lexicos#usuario">usuário</a> deve ser redirecionado para a página de login após <a href="../casos-de-uso#fazerLogout">fazer o logout</a>
 
 
 
 <span id="US04"></span> 
 
-### <a href="#US04">[US04]</a> - Eu como usuário, desejo tirar dúvidas sobre a Carteira de Trabalho Digital.
+### <a href="#US04">[US04]</a> - Eu como <a href="../lexicos#usuario">usuário</a>, desejo <a href="../casos-de-uso#duvidasCarteira">Tirar dúvidas sobre a carteira de trabalho digital</a>.
 
 #### Critérios de Aceitação:
 
-- Na aba de mais deve existir uma opção que contém respostas para as perguntas mais frequentes feitas sobre a carteira de trabalho digital;
-- Também na aba de mais deve existir um canal de conexão com o Ministério do Trabalho e Emprego (MTE) chamado ALÔ TRABALHO; 
+- Na aba de mais deve existir uma opção que contém respostas para as perguntas mais frequentes feitas sobre a <a href="../lexicos#carteiraDeTrabalhoDigital">carteira de Trabalho Digital</a>;
+- Também na aba de mais deve existir um canal de conexão com o Ministério do Trabalho e Emprego (MTE) chamado <a href="../lexicos#aloTrabalho">ALÔ TRABALHO</a>; 
 
 <span id="US05"></span>
 
-### <a href="#US05">[US05]</a> - Eu como usuário, desejo tirar dúvidas sobre a Carteira de Trabalho Digital.
+### <a href="#US05">[US05]</a> - Eu como <a href="../lexicos#usuario">usuário</a>, desejo <a href="../casos-de-uso#duvidasCarteira">Tirar dúvidas sobre a carteira de trabalho digital</a>.
 
 #### Critérios de Aceitação:
 
-- Deve existir um local que mostre informações sobre o seguro-desemprego;
-- Devem ser disponibilizadas respostas sobre as perguntas mais frequentes sobre o seguro-desemprego;
-- Deve ser disponibilizado algum canal de comunicação do usuário com o governo para que ele possa tirar alguma dúvida específica sobre o seguro-desemprego;
+- Deve existir um local que mostre informações sobre o <a href="../lexicos#seguroDesemprego">seguro-desemprego</a>;
+- Devem ser disponibilizadas respostas sobre as perguntas mais frequentes sobre o <a href="../lexicos#seguroDesemprego">seguro-desemprego</a>;
+- Deve ser disponibilizado algum canal de comunicação do <a href="../lexicos#usuario">usuário</a> com o governo para que ele possa tirar alguma dúvida específica sobre o <a href="../lexicos#seguroDesemprego">seguro-desemprego</a>;
 
 <span id="US06"></span>
 
-### <a href="#US06">[US06]</a> - Eu como usuário, desejo emitir a minha carteira de trabalho.
+### <a href="#US06">[US06]</a> - Eu como <a href="../lexicos#usuario">usuário</a>, desejo emitir a minha <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a>.
 
 #### Critérios de Aceitação:
 
-- Deve existir uma aba chamada enviar que permita o usuário enviar as informações na da Carteira de Trabalho Digital em PDF;
-- O usuário deve poder escolher quais dados ele quer que sejam mostrados no documento em PDF;
+- Deve existir uma aba chamada <a  href="../lexicos#enviar">enviar</a> que permita o <a href="../lexicos#usuario">usuário</a> <a  href="../lexicos#enviar">enviar</a> as informações na da <a href="../lexicos#carteiraDeTrabalhoDigital">carteira de Trabalho Digital</a> em PDF;
+- O <a href="../lexicos#usuario">usuário</a> deve poder escolher quais dados ele quer que sejam mostrados no documento em PDF;
 
 
 
 
 
-### <a href="#US07">[US07]</a> - Eu como usuário, desejo ver os meus registros de trabalho.
+### <a href="#US07">[US07]</a> - Eu como <a href="../lexicos#usuario">usuário</a>, desejo ver os meus registros de trabalho.
 
 #### Critérios de Aceitação:
 
-- Deve existir um local em que o usuário possa ver todos os seus registros de trabalho;
-- O usuário deve ser capaz de ver os detalhes desses registros;
+- Deve existir um local em que o <a href="../lexicos#usuario">usuário</a> possa ver todos os seus registros de trabalho;
+- O <a href="../lexicos#usuario">usuário</a> deve ser capaz de ver os detalhes desses registros;
 
 
 
 <span id="US08"></span>
 
-### <a href="#US08">[US08]</a> - Eu como usuário, desejo ver todos os meus contratos.
+### <a href="#US08">[US08]</a> - Eu como <a href="../lexicos#usuario">usuário</a>, desejo ver todos os meus <a href="../lexicos#contratos">contratos</a>.
 
 #### Critérios de Aceitação:
 
-- Deve existir uma aba de contratos;
-- Nesta aba deve conter informações sobre todos os contratos registrados;
+- Deve existir uma aba de <a href="../lexicos#contratos">contratos</a>;
+- Nesta aba deve conter informações sobre todos os <a href="../lexicos#contratos">contratos</a> registrados;
 
 
 
 <span id="US09"></span>
 
-### <a href="#US09">[US09]</a> - Eu como usuário,  desejo ver anotações de contrato.
+### <a href="#US09">[US09]</a> - Eu como <a href="../lexicos#usuario">usuário</a>,  desejo ver anotações de contrato.
 
 #### Critérios de Aceitação:
 
-- Deve existir uma tela em que o usuário consiga ver os detalhes das três últimas anotações feitas no último contrato vigente, como admissão, demissão, alteração de cargo, período de férias, etc;
+- Deve existir uma tela em que o <a href="../lexicos#usuario">usuário</a> consiga ver os detalhes das três últimas anotações feitas no último contrato vigente, como admissão, demissão, alteração de cargo, período de férias, etc;
 
 <span id="US10"></span>
 
-### <a href="#US10">[US10]</a> - Eu como usuário,  desejo reportar divergências de informações nos contratos.
+### <a href="#US10">[US10]</a> - Eu como <a href="../lexicos#usuario">usuário</a>,  desejo reportar <a href="../lexicos#divergenciasContratos">divergências de informações nos contratos</a>.
 
 #### Critérios de Aceitação:
 
-- Ao acessar o contrato, o usuário verá se há divergência nas informações dos contratos;
-- O usuário terá um opção para informar para o contratante a divergência do contrato;
+- Ao acessar o contrato, o <a href="../lexicos#usuario">usuário</a> verá se há divergência nas informações dos <a href="../lexicos#contratos">contratos</a>;
+- O <a href="../lexicos#usuario">usuário</a> terá um opção para informar para o contratante a divergência do contrato;
 
 <span id="US11"></span>
 
-### <a href="#US11">[US11]</a> - Eu como usuário,  desejo ver gráficos dos meus contratos.
+### <a href="#US11">[US11]</a> - Eu como <a href="../lexicos#usuario">usuário</a>,  desejo ver <a href="../lexicos#grafico">gráficos</a> dos meus <a href="../lexicos#contratos">contratos</a>.
 
 #### Critérios de Aceitação:
 
-- Ao acessar um contrato, o usuário deve ter uma opção para visualizar os gráficos daquele contrato
-- Os gráficos devem mostrar informações coerentes com o contrato especificado
+- Ao acessar um contrato, o <a href="../lexicos#usuario">usuário</a> deve ter uma opção para visualizar os <a href="../lexicos#grafico">gráficos</a> daquele contrato
+- Os <a href="../lexicos#grafico">gráficos</a> devem mostrar informações coerentes com o contrato especificado
 
 
 
 <span id="US12"></span>
 
-### <a href="#US12">[US12]</a> - Eu como usuário,  desejo solicitar o seguro-desemprego.
+### <a href="#US12">[US12]</a> - Eu como <a href="../lexicos#usuario">usuário</a>,  desejo solicitar o <a href="../lexicos#seguroDesemprego">seguro-desemprego</a>.
 
 #### Critérios de Aceitação:
 
-- Na aba de benefícios deve existir uma opção referente ao seguro-desemprego
-- Deve existir a opção de solicitar o seguro-desemprego
+- Na aba de <a href="../lexicos#beneficios">benefícios</a> deve existir uma opção referente ao <a href="../lexicos#seguroDesemprego">seguro-desemprego</a>
+- Deve existir a opção de solicitar o <a href="../lexicos#seguroDesemprego">seguro-desemprego</a>
 
 
 
 <span id="US13"></span>
 
-### <a href="#US13">[US13]</a> - Eu como usuário,  desejo consultar o benefício emergencial
+### <a href="#US13">[US13]</a> - Eu como <a href="../lexicos#usuario">usuário</a>,  desejo consultar o <a href="../lexicos#beneficioEmergencial">Benefício emergencial</a>
 
 #### Critérios de Aceitação:
 
-- Na aba de benefícios deve existir uma opção referente ao benefício emergencial;
-- Deve existir a opção de solicitar o benefício emergencial;
-- Deve existir uma opção que mostra as principais informações sobre o benefício emergencial;
-- O usuário deve obter o feedback da sua solicitação de benefício emergencial quando necessário;
+- Na aba de <a href="../lexicos#beneficios">benefícios</a> deve existir uma opção referente ao <a href="../lexicos#beneficioEmergencial">Benefício emergencial</a>;
+- Deve existir a opção de solicitar o <a href="../lexicos#beneficioEmergencial">Benefício emergencial</a>;
+- Deve existir uma opção que mostra as principais informações sobre o <a href="../lexicos#beneficioEmergencial">Benefício emergencial</a>;
+- O <a href="../lexicos#usuario">usuário</a> deve obter o feedback da sua solicitação de <a href="../lexicos#beneficioEmergencial">Benefício emergencial</a> quando necessário;
 
 
 
 <span id="US14"></span>
 
-### <a href="#US14">[US14]</a> - Eu como usuário, desejo consultar abono salarial
+### <a href="#US14">[US14]</a> - Eu como <a href="../lexicos#usuario">usuário</a>, desejo <a href="../casos-de-uso#consultarAbono">Consultar Abono Salarial</a>
 
 #### Critérios de Aceitação:
 
-* Na aba de benefícios deve existir uma opção referente ao abono salarial
-* Deve existir a opção de solicitar o abono salarial
-* Deve existir uma opção que mostra as principais informações sobre o abono salarial
-* O usuário deve obter o feedback da sua solicitação do abono salarial
+* Na aba de <a href="../lexicos#beneficios">benefícios</a> deve existir uma opção referente ao <a href="../lexicos#abonoSalarial">Abono Salarial</a>
+* Deve existir a opção de solicitar o <a href="../lexicos#abonoSalarial">Abono Salarial</a>
+* Deve existir uma opção que mostra as principais informações sobre o <a href="../lexicos#abonoSalarial">Abono Salarial</a>
+* O <a href="../lexicos#usuario">usuário</a> deve obter o feedback da sua solicitação do <a href="../lexicos#abonoSalarial">Abono Salarial</a>
 
 
 
@@ -219,6 +219,7 @@ Este documento tem como objetivo descrever todas as funcionalidades desejáveis 
 
 | Data       | Versão | Descrição            |         Autor           | Revisor |
 |------------|-----|-------------------------|-------------------------|---------|
-| 24/08/2021 | 0.1 | Criação do Documento com tema, épico e história de usuário. | Liverson Paulo | Denniel William |
+| 24/08/2021 | 0.1 | Criação do Documento com tema, épico e história de <a href="../lexicos#usuario">usuário</a>. | Liverson Paulo | Denniel William |
 | 08/09/2021 | 0.2 | Adição dos critérios de aceitação, introdução ao documento e bibliografia. | Murilo Gomes e Lucas Rodrigues | Denniel William |
-| 09/09/2021 | 1.0 | Adição da tabela backlog do produto e remoção da tabela de histórias de usuário | Denniel William |  |
+| 09/09/2021 | 1.0 | Adição da tabela backlog do produto e remoção da tabela de histórias de <a href="../lexicos#usuario">usuário</a> | Denniel William |  |
+| 26/09/2021 | 1.1 | Rastreabilidade do projeto  | Liverson Paulo e Giulia Lobo | Murilo Gomes |

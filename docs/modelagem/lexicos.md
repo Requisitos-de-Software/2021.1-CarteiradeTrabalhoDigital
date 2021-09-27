@@ -121,7 +121,6 @@ Os léxicos são separados em quatro (4) classificações: _objeto, estado, suje
 | **Noção**         | Quando o <a  href="#usuario">usuário</a> nota informações no <a  href="#contratos">contrato</a> que são diferentes do que foi acordado inicialmente. |
 | **Impacto**       | Poder denunciar divergências no contrato através do aplicativo. |
 | **Classificação** | Objeto                                                       |
-
 <span id="enviar"></span>
 
 #### L11 - Enviar

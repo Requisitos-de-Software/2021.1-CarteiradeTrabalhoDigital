@@ -4,6 +4,8 @@
 
 O propósito desse documento é explicar a importância da utilização de cenários para ajudar na na elicitação de requisitos e o comportamento do seu produto. Tratando também de sua metodologia, como a descrição dos cenários que podem ser obtidos através dos requisitos elicitados através de algumas técnicas tratadas em outros documentos desse repositório 
 
+* Participante: Denniel William
+
 ## 2. Metodologia
 
 Cenários é uma estratégia reconhecida para compreender as interações entre ambientes e sistemas, assim como elicitar a parte comportamental do software, sua dinâmica e/ou seu fluxo. Os cenários geralmente são estruturados com título, metas (ou objetivos), contexto, ator(es), recursos, exceções e episódios.

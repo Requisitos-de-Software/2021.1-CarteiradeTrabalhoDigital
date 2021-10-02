@@ -6,6 +6,8 @@
 
 <p>Os casos de uso integram os requisitos em um pacote abrangente que descreve a interação do <a href="../lexicos#usuario">usuário</a> com o sistema. Eles começam onde o processo de coleta de requisitos termina. Os requisitos determinam quais Casos de Uso o sistema terá, e muitos dos requisitos se tornarão sua lógica de negócios.</p>
 
+* Participantes: Giulia Lobo e Rhuan Marques
+
 ## 2. Metodologia
 
 <p>Para construir o nosso diagrama de casos de uso, primeiramente pegamos de base os requisitos que foram levantados na fase de elicitação.</p>

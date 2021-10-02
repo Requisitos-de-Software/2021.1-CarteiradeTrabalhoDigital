@@ -4,6 +4,8 @@
 
   Storytelling ou contador de histórias, é definida como uma técnica de elicitação de requisitos, que tem como características a criação de histórias que ilustram as necessidades dos <a href="../../modelagem/lexicos#usuario">usuários</a>, que tem como característica o compartilhamento de conhecimento.
 
+* Participantes: Liverson Paulo e Lucas Rodrigues
+
 ## 2. Storytelling
 
 ## 2.1 André Stuart Pereira: 

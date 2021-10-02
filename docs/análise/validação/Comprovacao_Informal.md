@@ -5,6 +5,8 @@
 
 Esse documento tem como finalidade apresentar a metodologia utilizada para a validação do produto através da comprovação informal. Sendo assim, os artefatos e requisitos elicitados do produto, irão se basear dos comentários dos clientes para assim obter alguns requisitos que possam não ter sido elicitados quanto melhorias e mudanças nos já levantados. 
 
+* Participante: Denniel William
+
 
 ## 2. Introdução
 

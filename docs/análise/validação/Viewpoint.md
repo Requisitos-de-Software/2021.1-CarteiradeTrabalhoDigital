@@ -18,6 +18,8 @@ As discrepâncias são classificadas de três maneiras:
     * Contradição entre um fato e uma hierarquia
     * Redundância em um mesmo ponto de vista
 
+* Participante: Murilo Gomes
+
 ## 2. Domínio
 
 O domínio utilizado para os dois pontos de vista é o próprio domínio geral da aplicação, tendo como base todos os artefatos gerados.

@@ -4,6 +4,8 @@
 
 Introspecção é uma técnica muito rica e profunda. Consiste em entender quais propriedades o sistema deve possuir para que seja um sucesso. Demanda o Engenheiro de Requisitos imaginar o que ele gostaria, se ele tivesse que desempenhar uma dada tarefa, com os equipamentos disponíveis e demais recursos. Pode ser muito útil, mas tem o problema de que a introspecção de um especialista, de uma área de atuação diferente, não ser adequada para refletir a experiência/atuação real dos interessados. 
 
+* Participantes: Denniel William e Rhuan Marques
+
 ## 2. Resultado:
 
 - Criar uma conta (<a href="../../modelagem/lexicos#carteiraDeTrabalho">carteira de trabalho</a>)

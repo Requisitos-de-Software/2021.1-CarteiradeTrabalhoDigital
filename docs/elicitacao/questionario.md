@@ -5,6 +5,8 @@
 O questionário, ou pesquisa, é um método que consiste na aplicação de um questionário às partes interessadas e posterior análise da resposta.
 É uma técnica que tem como objetivo coletar informações quantitativas e qualitativas de um público alvo numeroso.
 
+* Participantes: Murilo Gomes e Giulia Lobo
+
 ## 2. Metodologia
 
 Foram elaboradas 17 questões relacionadas a <a href="../../modelagem/lexicos#carteiraDeTrabalhoDigital">carteira de trabalho digital</a>, sendo que, as 8 primeiras, todas as pessoas que estiverem preenchendo o questionário devem responder. Depois dessas 8, dividimos o questionário em duas seções diferentes onde em uma delas a pessoa já teria utilizado o aplicativo e, em outra, a pessoa não o teria utilizado.

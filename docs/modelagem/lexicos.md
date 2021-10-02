@@ -10,6 +10,8 @@ Trata-se de uma técnica que busca descrever os símbolos de uma linguagem. O pr
 
 Os léxicos são separados em quatro (4) classificações: _objeto, estado, sujeito e verbo_.
 
+* Participantes: Liverson Paulo e Murilo Gomes
+
 ## 2. Símbolos
 
 <span id="abonoSalarial"></span>

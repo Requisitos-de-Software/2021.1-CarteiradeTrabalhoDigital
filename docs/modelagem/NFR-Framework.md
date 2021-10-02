@@ -6,6 +6,8 @@
 <p>Proposta em 1992 e desenvolvida em 2000, O NFR framework é utilizado para modelar requisitos não funcionais de um sistema.</p>
 <p> Sua estrutura é representada sobre a forma de gráficos SIG (Softgoal Interdependency Grafh – Gráficos de Interdependência de Softgoals) que descrevem as dependências entre softgoals e como eles são decompostos.</p>
 
+* Participantes: Liverson Paulo e Rhuan Marques
+
 ## 2. Metodologia
 
 <p>O modelo de NFR Framework possibilita o uso de 114 softgoals, porém para que se tenha o foco na metodologia do projeto, foram escolhidos apenas quatro: Usabilidade, Eficiência, Confiabilidade e Portabilidade. Tais pontos foram definidos com a análise dos requisitos não funcionais</p>

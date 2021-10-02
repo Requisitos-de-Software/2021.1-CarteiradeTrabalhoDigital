@@ -8,6 +8,7 @@ Uma sessão eficiente de brainstorming começa com uma pergunta que sumariza o o
 
 Uma sessão de brainstorming pode ser conduzida em aproximadamente uma hora, e leva menos tempo ainda para analisar os dados de uma sessão, o que torna essa técnica leve em termos de recursos, mas poderosa em termos de resultados.
 
+* Participantes: Todos os membros
 
 # 2. Metodologia
 

@@ -6,6 +6,8 @@ Personas são arquétipos, personagens ficcionais, concebidos a partir da sínte
 
 Podem ser utilizadas em várias fases do processo, pois servem para alinhar informações dos usuários com todas as pessoas envolvidas, mas são especialmente úteis na geração e validação de ideias.
 
+* Participantes: Todos os membros
+
 ## 2. Personas
 
 ### 2.1 Fernando Fernandes Sousa

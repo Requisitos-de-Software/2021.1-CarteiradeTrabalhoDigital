@@ -10,7 +10,7 @@
 
 ## 3. Escopo
 
-* A carteira de trabalho digital, é um aplicativo do governo, móvel, gratuito,  nele contem 4 ícones, inicio, contratos, enviar e mais.
+A carteira de trabalho digital, é um aplicativo do governo, móvel e gratuito, pelo aplicativo o usuário poderá cadastrar sua conta, compartilhar, obter e solicitar informações, tanto de sua carteira de trabalho, quanto de seus contratos. 
 
 ## 4. Metodologia
 
@@ -20,20 +20,26 @@ FURPS+ é um sistema para a classificação de requisitos, o acrônimo represent
 
 Refere-se as características e capacidades, funções e segurança da aplicação: 
 
-* Inicio e a primeira tela do aplicativo, contendo as 3 ultimas movimentações de seu
-último contrato de trabalho e seus dados pessoais.
-* O segundo ícone, corresponde ao detalhamento dos seus vínculos, contendo os dados mais
-sensíveis.
-* O terceiro ícone serve para enviar o seu curriculo para as empresas que estão contratando. 
-* O quarto icone, é referente a “POLÍTICA DE PRIVACIDADE”, “PERGUNTAS FREQUENTES”,
-“AVALIAÇÃO DO APLICATIVO” e opção para “SAIR”.
+* Fazer login, cadastro e logout do usuario. 
+* Administrar uma conta da sua carteira de trabalho digital.
+* Compartilhar informações de contratos.
+* Solicitar informações de contrato. 
+* Ter informações dos meus contratos.
+* solicitar benefícios pela carteira de trabalho digital.
+* Emitir carteira de trabalho em PDF.
+* Solicitar seguro-desemprego.
+* Consultar benefício emergencial.
+* Consultar abono salarial.
+* Mostrar registros de trabalho.
+
 
 ## 4.2. Usability (Usabilidade)
 
 E o atributo que avalia a interface com o usuário, incluindo documentação, ajudas, design, etc;
 
-* Facilidade no uso: O aplicativo deve ser intuitivo, para que o usuário encontre com facilidade o que procura.
-
+* O aplicativo deve ser intuitivo, para que o usuário encontre com facilidade o que procura.
+* O aplicativo da carteira de trabalho digital tem 4 ícones: o ícone de contratos, ícone de enviar, o ícone de inicio e o ícone de mais.
+ 
 ## 4.3. Reliability (Confiabilidade)
 
 Remete-se à integridade, conformidade e interoperabilidade do aplicativo, avaliando frequência e gravidade de falhas, o tempo médio entre elas, a possibilidade de recuperação, e a possibilidade de previsão;
@@ -47,7 +53,6 @@ Remete-se à integridade, conformidade e interoperabilidade do aplicativo, avali
 Avalia atributos de desempenho do software, como: velocidade de processamento, tempo de resposta, consumo de memória e eficiência
 
 * Armazenamento: A aplicação deve apresentar um tempo de resposta bem curto para que possa facilitar o seu uso. A aplicação pede menos de 19MB para sua instalação, sendo assim uma aplicação bem leve.
-* Localização: O aplicativo utiliza a localização do dispositivo para rastrear os hemocentros mais próximos.
 
 ## 4.5. Supportability (Portabilidade)
 
@@ -62,4 +67,4 @@ Os requisitos de suportabilidade envolvem a manutenibilidade, compatibilidade, c
 ## 6. Bibliografia
 
 * FURPS, Wikipedia. Disponível em: https://en.wikipedia.org/wiki/FURPS 
-
+* KADER, Saleh; Especificação Suplementar; Disponível em https://requisitos-habitica.netlify.com/EspecificacaoSuplementar  

@@ -37,3 +37,4 @@ De forma a obter os feedbacks e para a validação das funcionalidades implement
 |------------|-----|-------------------------|-------------------------|---------|
 | 14/09/2021 | 1.0 | Criação do Documento com objetivo, introdução, metodologia e comentários filtrados  | denniel William | Murilo Gomes |
 | 27/09/2021 | 1.1 | Rastreabilidade do projeto  | Liverson Paulo e Giulia Lobo | Murilo Gomes |
+

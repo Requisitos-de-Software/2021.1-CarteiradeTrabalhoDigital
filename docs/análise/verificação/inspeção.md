@@ -80,7 +80,6 @@ A inspeção é um método de verificação no qual são analisados documentos d
 
 Foram encontrados alguns erros dos quais modificações se fazem necessárias, a verificação nos ajudou a perceber quais são as mudanças para tornar o projeto mais rico.
 
-Sendo alguns destes:
 Sendo estes:
 
 - Melhoria na especificação suplementar

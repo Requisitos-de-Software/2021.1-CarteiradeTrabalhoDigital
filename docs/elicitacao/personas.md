@@ -6,6 +6,8 @@ Personas são arquétipos, personagens ficcionais, concebidos a partir da sínte
 
 Podem ser utilizadas em várias fases do processo, pois servem para alinhar informações dos usuários com todas as pessoas envolvidas, mas são especialmente úteis na geração e validação de ideias.
 
+* Participantes: Todos os membros
+
 ## 2. Personas
 
 ### 2.1 Fernando Fernandes Sousa
@@ -37,6 +39,8 @@ Podem ser utilizadas em várias fases do processo, pois servem para alinhar info
 | História e Contexto |   apesar do seu diploma em arquitetura, André ainda não conseguiu se inserir no mercado de trabalho, tendo dificuldades, pois todas as vagas de emprego estão requerendo tempo de experiência, porém já tem em mãos sua carteira de trabalho física |
 | Objetivo | Conseguir um bom emprego na área de arquitetura, e se destacar em sua área |
 | Expectativa | Animado para conseguir o seu primeiro emprego, e preocupado com a possibilidade de perder algum documento |
+
+### 2.3 Joaquim Silva Barbosa
 
 | Característica | Descrição
 | :--- | :--- | 
@@ -83,8 +87,8 @@ Podem ser utilizadas em várias fases do processo, pois servem para alinhar info
 
 ## 5. Versionamento
 
-| Versão | Descrição| Data| Autor(es)| Revisor(es)|
+| Data | Versão| Descrição| Autor(es)| Revisor(es)|
 |--------|----------|-----|----------|------------|
-| 1.0.0 | Criação do documento| 17/08/2021 | Liverson Paulo e Lucas Rodrigues | Giulia Lobo e Murilo Gomes |
-| 1.1.0 | Adição de persona da dupla | 19/08/2021 | Denniel William e Rhuan Marques | Liverson Paulo e Lucas Rodrigues |
-| 1.2.0 | Adição de persona da dupla | 20/08/2021 | Giulia Lobo e Murilo Gomes | Denniel William e Rhuan Marques |
+| 17/08/2021 | 1.0| Criação do documento | Liverson Paulo e Lucas Rodrigues | Giulia Lobo e Murilo Gomes |
+| 19/08/2021 | 1.1 | Adição de persona da dupla | Denniel William e Rhuan Marques | Liverson Paulo e Lucas Rodrigues |
+| 20/08/2021 | 1.2 | Adição de persona da dupla | Giulia Lobo e Murilo Gomes | Denniel William e Rhuan Marques |

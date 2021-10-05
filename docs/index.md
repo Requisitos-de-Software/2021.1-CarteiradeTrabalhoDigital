@@ -1,11 +1,11 @@
-| Versão | Data       | Descriçào            | Autor(es)     | Revisor(es)  |
+| Data       | Versão | Descrição            |         Autor           | Revisor |
 | ------ | ---------- | -------------------- | ------------- | ------------ |
-| 1.0    | 03/08/2021 | Criação do documento | Liverson      | Murilo Gomes |
-| 1.1    | 06/08/2021 | Edição do documento  | Rhuan Marques | Murilo Gomes |
+|  03/08/2021  | 1.0 | Criação do documento | Liverson      | Murilo Gomes |
+|  06/08/2021  | 1.1 | Edição do documento  | Rhuan Marques | Murilo Gomes |
 
 # Carteira de trabalho digital
 
-<img src="../assets/logo.png" width="100">
+![logo](assets/logo.png)
 
 ## 1. Sobre
 

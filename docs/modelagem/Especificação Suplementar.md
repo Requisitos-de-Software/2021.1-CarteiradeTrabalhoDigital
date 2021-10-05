@@ -68,3 +68,14 @@ Os requisitos de suportabilidade envolvem a manutenibilidade, compatibilidade, c
 
 * FURPS, Wikipedia. Disponível em: https://en.wikipedia.org/wiki/FURPS 
 * KADER, Saleh; Especificação Suplementar; Disponível em https://requisitos-habitica.netlify.com/EspecificacaoSuplementar  
+
+
+## 7. Versionamento
+
+| Data       | Versão | Descrição            |         Autor           | Revisor |
+|------------|-----|-------------------------|-------------------------|---------|
+| 24/08/2021 | 1.0 | Criação do Documento com especificação suplementar | Lucas Rodrigues | Murilo Gomes |
+| 21/09/2021 | 1.1 | Alteração do documento baseado em feedbacks | Lucas Rodrigues | Murilo Gomes | 
+| 05/10/2021 | 1.2 | Alteração do documento baseado na inspeção Lucas Rodrigues | Murilo Gomes | 
+
+

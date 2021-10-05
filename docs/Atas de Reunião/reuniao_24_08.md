@@ -14,11 +14,11 @@ Reunião iniciou 19:00hs via Discord
 
 * Cenários - Denniel e Lucas
 * Casos de Uso - Giulia e Rhuan
-* Léxico - Livinho e Murilo
+* Léxico - Liverson e Murilo
 * Especificação Suplementar - Será feito em conjunto por todos os alunos
 * Refazer richpicture após elicitação de requisitos - Até 27/08
 
 ### Foi feita a revisão de atividades e a atualização do ZenHub
-<br />
 
-**Considerações Finais**: Reunião finalizou 21:30hs
+## Considerações Finais: 
+Reunião finalizou 21:30hs

@@ -25,4 +25,5 @@ Reunião iniciou 19:15hs via Discord
 ### Revisão de atividades e atualização do ZenHub
 <br />
 
-**Considerações Finais**: Reunião finalizou 20:32hs
+## Considerações Finais: 
+Reunião finalizou 20:32hs

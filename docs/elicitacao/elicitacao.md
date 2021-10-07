@@ -175,9 +175,33 @@ should do: São importantes, porém não têm a mesma importância do must do
 could do: São desejáveis, porém não são essenciais do ponto de vista estratégico
 wont do: São acordados os requisitos de menos importância do projeto, com menor retorno do investimento do produto final
 
-### 5.2. Resultado
+### 5.2. Tabela de requisitos
+
+| ID  | Requisito | Rastro | MoSCoW | Tipo | A quem se refere |
+| --- | --------- | ------ | ------ | ---- | ---------------- |
+| <span id="R01">R01</span> | O usuário deve ser capaz de se cadastrar no sistema | | MUST | Funcional | Usuário |
+| <span id="R02">R02</span> | O usuário deve ser capaz de se conectar-se a uma conta | | MUST | Funcional | Usuário |
+| <span id="R03">R03</span> | O usuário deve ser capaz de sair de uma conta | | MUST | Funcional | Usuário |
+| <span id="R04">R04</span> | O usuário deve ser capaz de visualizar seu registro de trabalho |  | MUST | Funcional | Usuário |
+| <span id="R05">R05</span> | O usuário deve ser capaz de solicitar ajuda em caso de dúvidas |  | MUST | Funcional | Usuário |
+| <span id="R06">R06</span> | O usuário deve ser capaz de emitir carteira de trabalho em pdf |  | MUST | Funcional | Usuário |
+| <span id="R08">R08</span> | O usuário deve ser capaz de emitir carteira de trabalho em pdf |  | MUST | Funcional | Usuário |
+| <span id="R07">R07</span> | O sistema deve ser seguro | | MUST | Não Funcional | Sistema |
+| <span id="R08">R08</span> | O usuário deve ser capaz de visualizar seus contratos de trabalho na carteira digital | | MUST | Funcional | Usuário |
+| <span id="R09">R09</span> | O usuário deve visualizar suas informações cadastradas no sistema gov.br | | SHOULD | Funcional | Usuário |
+| <span id="R10">R10</span> | O usuário deve conseguir mandar uma foto de identificação própria | | SHOULD | Funcional | Usuário |
+| <span id="R11">R11</span> | O aplicativo deve possuir sistema acessível e simples | | SHOULD | Não Funcional | Sistema |
+| <span id="R12">R12</span> | O usuário deve conseguir reportar divergências de informações em seus contratos | | SHOULD | Funcional | Usuário |
+| <span id="R13">R13</span> | O usuário deve ser possível de visualizar anotações em seu contrato | | COULD | Funcional | Usuário |
+| <span id="R14">R14</span> | O usuário deve conseguir visualizar gráficos de renda de seus contratos | | COULD | Funcional | Usuário |
+| <span id="R15">R15</span> | O usuário deve conseguir solicitar seguro-desemprego pelo aplicativo | | COULD | Funcional | Usuário |
+| <span id="R16">R16</span> | O sistema deve notificar o usuário em caso de qualquer alteração ou anotação no contrato do mesmo | | COULD | Funcional | Sistema |
+| <span id="R17">R17</span> | O usuário pode consultar benefícios relacionados ao seu contrato atual | | COULD | Funcional | Usuário |
+| <span id="R18">R18</span> | O usuário deve ter uma melhor experiência de usuário | | COULD | Não Funcional | Sistema | 
 
 ![MoSCoW](../assets/priorizacao_de_requisitos.png)
+
+
 
 ## 6. Bibliografia
 

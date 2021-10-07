@@ -10,7 +10,7 @@
 
 ## 3. Escopo
 
-A carteira de trabalho digital, é um aplicativo do governo, móvel e gratuito, pelo aplicativo o usuário poderá cadastrar sua conta, compartilhar, obter e solicitar informações, tanto de sua carteira de trabalho, quanto de seus contratos. 
+A <a href="../lexicos#carteiraDeTrabalhoDigital">carteira de trabalho digital</a> , é um aplicativo do governo, móvel e gratuito, pelo aplicativo o <a href="../lexicos#usuario">usuário</a> poderá cadastrar sua conta, compartilhar, obter e solicitar informações, tanto de sua <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a>, quanto de seus <a href="../lexicos#contratos">contratos</a>. 
 
 ## 4. Metodologia
 
@@ -21,32 +21,32 @@ FURPS+ é um sistema para a classificação de requisitos, o acrônimo represent
 Refere-se as características e capacidades, funções e segurança da aplicação: 
 
 * Fazer login, cadastro e logout do usuario. 
-* Administrar uma conta da sua carteira de trabalho digital.
-* Compartilhar informações de contratos.
+* Administrar uma conta da sua <a href="../lexicos#carteiraDeTrabalhoDigital">carteira de trabalho digital</a> .
+* Compartilhar informações de <a href="../lexicos#contratos">contratos</a>.
 * Solicitar informações de contrato. 
-* Ter informações dos meus contratos.
-* solicitar benefícios pela carteira de trabalho digital.
-* Emitir carteira de trabalho em PDF.
-* Solicitar seguro-desemprego.
-* Consultar benefício emergencial.
-* Consultar abono salarial.
+* Ter informações dos meus <a href="../lexicos#contratos">contratos</a>.
+* solicitar <a href="../lexicos#beneficios">benefícios</a> pela <a href="../lexicos#carteiraDeTrabalhoDigital">carteira de trabalho digital</a> .
+* Emitir <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a> em PDF.
+* Solicitar <a  href="../lexicos#seguroDesemprego">seguro-desemprego</a>.
+* Consultar <a href="../lexicos#beneficioEmergencial">benefício emergencial</a>.
+* Consultar "../lexicos#abonoSalarial">abono Salarial</a>.
 * Mostrar registros de trabalho.
 
 
 ## 4.2. Usability (Usabilidade)
 
-E o atributo que avalia a interface com o usuário, incluindo documentação, ajudas, design, etc;
+E o atributo que avalia a interface com o <a href="../lexicos#usuario">usuário</a>, incluindo documentação, <a href="../lexicos#ajuda">ajudas</a>, design, etc;
 
-* O aplicativo deve ser intuitivo, para que o usuário encontre com facilidade o que procura.
-* O aplicativo da carteira de trabalho digital tem 4 ícones: o ícone de contratos, ícone de enviar, o ícone de inicio e o ícone de mais.
+* O aplicativo deve ser intuitivo, para que o <a href="../lexicos#usuario">usuário</a> encontre com facilidade o que procura.
+* O aplicativo da <a href="../lexicos#carteiraDeTrabalhoDigital">carteira de trabalho digital</a>  tem 4 ícones: o ícone de <a href="../lexicos#contratos">contratos</a>, ícone de <a  href="../lexicos#enviar">enviar</a>, o ícone de inicio e o ícone de mais.
  
 ## 4.3. Reliability (Confiabilidade)
 
 Remete-se à integridade, conformidade e interoperabilidade do aplicativo, avaliando frequência e gravidade de falhas, o tempo médio entre elas, a possibilidade de recuperação, e a possibilidade de previsão;
 
-* Privacidade de dados: Os dados dos usuários devem ser mantidos em segurança.
-* Transparência: O aplicativo deve deixar claro todas as informações sobre como os dados coletados dos usuários serão usadas.
-* Disponibiilidade: Os servidores devem estar sempre disponíveis, para que o usuários consiga usar o aplicativo com satisfação independente de dia ou horário.
+* Privacidade de dados: Os dados dos <a href="../lexicos#usuario">usuários</a> devem ser mantidos em segurança.
+* Transparência: O aplicativo deve deixar claro todas as informações sobre como os dados coletados dos <a href="../lexicos#usuario">usuários</a> serão usadas.
+* Disponibiilidade: Os servidores devem estar sempre disponíveis, para que o <a href="../lexicos#usuario">usuários</a> consiga usar o aplicativo com satisfação independente de dia ou horário.
 
 ## 4.4. Performance (Desempenho)
 
@@ -62,7 +62,7 @@ Os requisitos de suportabilidade envolvem a manutenibilidade, compatibilidade, c
 
 ## 5. Privacidade
 
-* Somente com o CPF e senha o usuário consegue acessar a sua conta no aplicativo da carteira de trabalho digital, o aplicativo também conta com o termo de uso e política de privacidade de pessoa pública, que estabelece uma relação de cofiança entre o usuário e o aplicativo. 
+* Somente com o CPF e senha o <a href="../lexicos#usuario">usuário</a> consegue acessar a sua conta no aplicativo da <a href="../lexicos#carteiraDeTrabalhoDigital">carteira de trabalho digital</a> , o aplicativo também conta com o termo de uso e política de privacidade de pessoa pública, que estabelece uma relação de cofiança entre o <a href="../lexicos#usuario">usuário</a> e o aplicativo. 
 
 ## 6. Bibliografia
 
@@ -76,6 +76,7 @@ Os requisitos de suportabilidade envolvem a manutenibilidade, compatibilidade, c
 |------------|-----|-------------------------|-------------------------|---------|
 | 24/08/2021 | 1.0 | Criação do Documento com especificação suplementar | Lucas Rodrigues | Murilo Gomes |
 | 21/09/2021 | 1.1 | Alteração do documento baseado em feedbacks | Lucas Rodrigues | Murilo Gomes | 
-| 05/10/2021 | 1.2 | Alteração do documento baseado na inspeção Lucas Rodrigues | Murilo Gomes | 
+| 05/10/2021 | 1.2 | Alteração do documento baseado na inspeção | Lucas Rodrigues | Murilo Gomes | 
+| 06/10/2021 | 1.3 | Adicionando rastreabilizade | Liverson Paulo | Giulia Lobo | 
 
 

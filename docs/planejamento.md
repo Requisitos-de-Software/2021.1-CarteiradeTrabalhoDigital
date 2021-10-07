@@ -50,7 +50,8 @@ Em consenso com toda a equipe, foi selecionada a **Carteira de Trabalho Digital*
 | 3 - Modelagem de Requisitos        | Cenários, Léxico, Use Case e Especificação suplementar | 20/08/2021 e 24/08/2021 | 20/08/2021 a 26/08/2021 | 27/08/2021 |
 | 4 - Modelagem de Requisitos - Ágil | Histórias de Usuário, Backlogs e NFR framework         | 31/08/2021 e 03/09/2021 | 01/09/2021 a 08/09/2021 | 09/09/2021 |
 | 5 - Análise de Requisitos          | Verificação e Validação                                | 10/09/2021 e 14/09/2021 | 10/09/2021 a 16/09/2021 | 17/09/2021 |
-| 6 - Pós - Rastreabilidade          | Gerência II                                            | 24/09/2021 e 01/10/2021 | 18/09/2021 a 06/10/2021 | 07/10/2021 |
+| 6 - Pós - Rastreabilidade          | Gerência II                                            | 23/09/2021 | 18/09/2021 a 06/10/2021 | 07/10/2021 |
+| 7 - Projeto final                  | Apresentação do projeto final                          | 08/10/2021 e 15/10/2021 | 08/10/2021 a 17/10/2021 | 18/10/2021 |
 
 <br/>
 

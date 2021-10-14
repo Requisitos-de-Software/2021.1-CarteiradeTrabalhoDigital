@@ -17,15 +17,21 @@
 <img src="../../assets/legenda_nfr.png">
 **Figura 1:** Legenda. **Fonte:** Grupo Promobit.
 
+<span id="usabilidade"></span>
+
 ## 3. Usabilidade
 ### 3.1. Sem propagação
 <img src="../../assets/Usabilidade.png">
 **Figura 2:** Usabilidade. **Fonte:** Liverson Paulo e Rhuan Marques
 
+<span id="portabilidade"></span>
+
 ## 4. Portabilidade
 ### 4.1. Sem propagação
 <img src="../../assets/Portabilidade.png">
 **Figura 3:** Portabilidade. **Fonte:** Liverson Paulo e Rhuan Marques
+
+<span id="confiabilidade"></span>
 
 ## 5. Confiabilidade
 ### 5.1. Sem propagação

@@ -37,10 +37,11 @@
 ## 4. Especificação dos casos de uso
 
 <span id="administrarConta"></span>
+<span id="UC01"></span>
 
-### US01 - Administrar conta
+### UC01 - Administrar conta
 
-|   US01   | Descrição |
+|   UC01   | Descrição |
 | -------- | --------- |
 | **Ator** | <a href="../lexicos#usuario">usuário</a> |
 | **Pré-condições** | <a href="../lexicos#usuario">usuário</a> deve ter conexão a internet |
@@ -50,10 +51,11 @@
 | **Fluxo(s) de exceção** | **[FE01] Falha de conexão com a internet** | 
 
 <span id="fazerLogin"></span>
+<span id="UC02"></span>
 
-### US02 - Fazer login
+### UC02 - Fazer login
 
-|   US02   | Descrição |
+|   UC02   | Descrição |
 | -------- | --------- |
 | **Ator** | <a href="../lexicos#usuario">usuário</a> |
 | **Pré-condições** | <a href="../lexicos#usuario">usuário</a> deve ter conexão a internet <br/> <a href="../lexicos#usuario">usuário</a> deve ter uma conta registrada com CPF próprio <br/> |
@@ -63,10 +65,11 @@
 | **Fluxo(s) de exceção** | **[FE01] Falha de conexão com a internet** <br/> **[FE02] CPF inválido:** <br/> No passo 3 do [FP01] foi inserido um CPF inválido ou não cadastrado <br/> **[FE03] Senha incorreta:** <br/> No passo 5 do [FP01] foi inserido uma senha não correspondente a conta cadastrada | 
 
 <span id="fazerCadastro"></span>
+<span id="UC03"></span>
 
-### US03 - Fazer cadastro
+### UC03 - Fazer cadastro
 
-|   US03   | Descrição |
+|   UC03   | Descrição |
 | -------- | --------- |
 | **Ator** | <a href="../lexicos#usuario">usuário</a> |
 | **Pré-condições** | <a href="../lexicos#usuario">usuário</a> deve ter conexão a internet <br/> <a href="../lexicos#usuario">usuário</a> deve ter CPF próprio <br/> |
@@ -76,10 +79,11 @@
 | **Fluxo(s) de exceção** | **[FE01] Falha de conexão com a internet** <br/> **[FE02] Informação inválida:** <br/> No passo 2 do [FP01] o <a href="../lexicos#usuario">usuário</a> escolhe uma ou mais informações erradas sobre seu registro governamental <br/> **[FE03] Senhas incompatíveis:** <br/> No passo 3 do [FP01] <a href="../lexicos#usuario">usuário</a> digita senha diferentes no campo de digitar e confirmar senha <br/> **[FE04] Senhas inválida:** <br/> No passo 3 do [FP01] <a href="../lexicos#usuario">usuário</a> digita que não esteja de acordo ao explicitado nas regras do cadastro | 
 
 <span id="fazerLogout"></span>
+<span id="UC04"></span>
 
-### US04 - Fazer logout
+### UC04 - Fazer logout
 
-|   US04   | Descrição |
+|   UC04   | Descrição |
 | -------- | --------- |
 | **Ator** | <a href="../lexicos#usuario">usuário</a> |
 | **Pré-condições** | <a href="../lexicos#usuario">usuário</a> deve ter conexão a internet <br/> <a href="../lexicos#usuario">usuário</a> deve ter uma conta registrada com CPF próprio <br/> <a href="../lexicos#usuario">usuário</a> deve estar logado no aplicativo |
@@ -89,10 +93,11 @@
 | **Fluxo(s) de exceção** | **[FE01] Falha de conexão com a internet <br/>** | 
 
 <span id="solicitarAjuda"></span>
+<span id="UC05"></span>
 
-### US05 - Solicitar <a href="../lexicos#ajuda">Ajuda</a>
+### UC05 - Solicitar <a href="../lexicos#ajuda">Ajuda</a>
 
-|   US05   | Descrição |
+|   UC05   | Descrição |
 | -------- | --------- |
 | **Ator** | <a href="../lexicos#usuario">usuário</a> |
 | **Pré-condições** | <a href="../lexicos#usuario">usuário</a> deve ter conexão a internet <br/> <a href="../lexicos#usuario">usuário</a> deve estar logado no aplicativo |
@@ -102,12 +107,13 @@
 | **Fluxo(s) de exceção** | **[FE01] Falha de conexão com a internet <br/>** | 
 
 <span id="duvidasCarteira"></span>
+<span id="UC06"></span>
 
 tirar dúvidas sobre a  <a href="../lexicos#carteiraDeTrabalhoDigital">carteira de trabalho digital</a>
 
-### US06 - Tirar dúvidas sobre a <a href="../lexicos#carteiraDeTrabalhoDigital">carteira de trabalho digital</a>
+### UC06 - Tirar dúvidas sobre a <a href="../lexicos#carteiraDeTrabalhoDigital">carteira de trabalho digital</a>
 
-|   US06   | Descrição |
+|   UC06   | Descrição |
 | -------- | --------- |
 | **Ator** | <a href="../lexicos#usuario">usuário</a> |
 | **Pré-condições** | <a href="../lexicos#usuario">usuário</a> deve ter conexão a internet <br/> <a href="../lexicos#usuario">usuário</a> deve estar logado no aplicativo |
@@ -117,10 +123,11 @@ tirar dúvidas sobre a  <a href="../lexicos#carteiraDeTrabalhoDigital">carteira 
 | **Fluxo(s) de exceção** | **[FE01] Falha de conexão com a internet <br/>** **[FE02] Página gov.br com serviço indisponível** | 
 
 <span id="duvidaSeguro"></span>
+<span id="UC07"></span>
 
-### US07 - Tirar dúvidas sobre o seguro desemprego
+### UC07 - Tirar dúvidas sobre o seguro desemprego
 
-|   US07   | Descrição |
+|   UC07   | Descrição |
 | -------- | --------- |
 | **Ator** | <a href="../lexicos#usuario">usuário</a> |
 | **Pré-condições** | <a href="../lexicos#usuario">usuário</a> deve ter conexão a internet <br/> <a href="../lexicos#usuario">usuário</a> deve estar logado no aplicativo |
@@ -130,10 +137,11 @@ tirar dúvidas sobre a  <a href="../lexicos#carteiraDeTrabalhoDigital">carteira 
 | **Fluxo(s) de exceção** | **[FE01] Falha de conexão com a internet <br/>** **[FE02] Página gov.br com serviço indisponível** | 
 
 <span id="compartilharInfo"></span>
+<span id="UC08"></span>
 
-### US08 - Compartilhar informações de trabalho
+### UC08 - Compartilhar informações de trabalho
 
-|   US08   | Descrição |
+|   UC08   | Descrição |
 | -------- | --------- |
 | **Ator** | <a href="../lexicos#usuario">usuário</a> |
 | **Pré-condições** | <a href="../lexicos#usuario">usuário</a> deve ter conexão a internet <br/> <a href="../lexicos#usuario">usuário</a> deve estar logado no aplicativo |
@@ -143,10 +151,11 @@ tirar dúvidas sobre a  <a href="../lexicos#carteiraDeTrabalhoDigital">carteira 
 | **Fluxo(s) de exceção** | **[FE01] Falha de conexão com a internet <br/>**| 
 
 <span id="emitir"></span>
+<span id="UC09"></span>
 
-### US09 - Emitir <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a> em PDF
+### UC09 - Emitir <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a> em PDF
 
-|   US09   | Descrição |
+|   UC09   | Descrição |
 | -------- | --------- |
 | **Ator** | <a href="../lexicos#usuario">usuário</a> |
 | **Pré-condições** | <a href="../lexicos#usuario">usuário</a> deve ter conexão a internet <br/> <a href="../lexicos#usuario">usuário</a> deve estar logado no aplicativo |
@@ -156,10 +165,11 @@ tirar dúvidas sobre a  <a href="../lexicos#carteiraDeTrabalhoDigital">carteira 
 | **Fluxo(s) de exceção** | **[FE01] Falha de conexão com a internet <br/>** **[FE02] Falha ao visualizar PDF <br/>** | 
 
 <span id="visualizarInfo"></span>
+<span id="UC10"></span>
 
-### US10 - Visualizar informações contratuais
+### UC10 - Visualizar informações contratuais
 
-|   US10   | Descrição |
+|   UC10   | Descrição |
 | -------- | --------- |
 | **Ator** | <a href="../lexicos#usuario">usuário</a> |
 | **Pré-condições** | <a href="../lexicos#usuario">usuário</a> deve ter conexão a internet <br/> <a href="../lexicos#usuario">usuário</a> deve estar logado no aplicativo <br/> <a href="../lexicos#usuario">usuário</a> deve ter <a href="../lexicos#contratos">contratos</a> registrado na conta |
@@ -169,10 +179,11 @@ tirar dúvidas sobre a  <a href="../lexicos#carteiraDeTrabalhoDigital">carteira 
 | **Fluxo(s) de exceção** | **[FE01] Falha de conexão com a internet <br/>** **[FE02] <a href="../lexicos#usuario">usuário</a> não possui <a href="../lexicos#contratos">contratos</a> <br/>** **[FE03] <a href="../lexicos#usuario">usuário</a> sem permissão para essa funcionalidade <br/>**| 
 
 <span id="mostrarContratos"></span>
+<span id="UC11"></span>
 
-### US11 - Mostrar <a href="../lexicos#contratos">contratos</a>
+### UC11 - Mostrar <a href="../lexicos#contratos">contratos</a>
 
-|   US11   | Descrição |
+|   UC11   | Descrição |
 | -------- | --------- |
 | **Ator** | <a href="../lexicos#usuario">usuário</a> |
 | **Pré-condições** | <a href="../lexicos#usuario">usuário</a> deve ter conexão a internet <br/> <a href="../lexicos#usuario">usuário</a> deve estar logado no aplicativo <br/> <a href="../lexicos#usuario">usuário</a> deve ter <a href="../lexicos#contratos">contratos</a> registrado na conta |
@@ -182,10 +193,11 @@ tirar dúvidas sobre a  <a href="../lexicos#carteiraDeTrabalhoDigital">carteira 
 | **Fluxo(s) de exceção** | **[FE01] Falha de conexão com a internet <br/>** **[FE02] <a href="../lexicos#usuario">usuário</a> não possui <a href="../lexicos#contratos">contratos</a> <br/>** **[FE03] <a href="../lexicos#usuario">usuário</a> sem permissão para essa funcionalidade <br/>**|
 
 <span id="mostrarRegistros"></span>
+<span id="UC12"></span>
 
-### US12 - Mostrar registros de trabalho
+### UC12 - Mostrar registros de trabalho
 
-|   US12   | Descrição |
+|   UC12   | Descrição |
 | -------- | --------- |
 | **Ator** | <a href="../lexicos#usuario">usuário</a> |
 | **Pré-condições** | <a href="../lexicos#usuario">usuário</a> deve ter conexão a internet <br/> <a href="../lexicos#usuario">usuário</a> deve estar logado no aplicativo <br/> <a href="../lexicos#usuario">usuário</a> deve ter <a href="../lexicos#contratos">contratos</a> registrado na conta |
@@ -195,10 +207,11 @@ tirar dúvidas sobre a  <a href="../lexicos#carteiraDeTrabalhoDigital">carteira 
 | **Fluxo(s) de exceção** | **[FE01] Falha de conexão com a internet <br/>** **[FE02] <a href="../lexicos#usuario">usuário</a> não possui <a href="../lexicos#contratos">contratos</a> <br/>** **[FE03] <a href="../lexicos#usuario">usuário</a> sem permissão para essa funcionalidade <br/>**|
 
 <span id="solicitarBeneficios"></span>
+<span id="UC13"></span>
 
-### US13 - Solicitar <a href="../lexicos#beneficios">benefícios</a>
+### UC13 - Solicitar <a href="../lexicos#beneficios">benefícios</a>
 
-|   US13   | Descrição |
+|   UC13   | Descrição |
 | -------- | --------- |
 | **Ator** | <a href="../lexicos#usuario">usuário</a> |
 | **Pré-condições** | <a href="../lexicos#usuario">usuário</a> deve ter conexão a internet <br/> <a href="../lexicos#usuario">usuário</a> deve estar logado no aplicativo <br/> <a href="../lexicos#usuario">usuário</a> deve ter <a href="../lexicos#contratos">contratos</a> registrado na conta |
@@ -208,10 +221,11 @@ tirar dúvidas sobre a  <a href="../lexicos#carteiraDeTrabalhoDigital">carteira 
 | **Fluxo(s) de exceção** | **[FE01] Falha de conexão com a internet <br/>** **[FE02] <a href="../lexicos#usuario">usuário</a> não tem permissão para solicitar qualquer <a href="../lexicos#beneficios">benefício</a> <br/>** **[FE03] <a href="../lexicos#usuario">usuário</a> sem permissão para essa funcionalidade <br/>**|
 
 <span id="solicitarOutros"></span>
+<span id="UC14"></span>
 
-### US14 - Solicitar outros <a href="../lexicos#beneficios">benefícios</a>
+### UC14 - Solicitar outros <a href="../lexicos#beneficios">benefícios</a>
 
-|   US14   | Descrição |
+|   UC14   | Descrição |
 | -------- | --------- |
 | **Ator** | <a href="../lexicos#usuario">usuário</a> |
 | **Pré-condições** | <a href="../lexicos#usuario">usuário</a> deve ter conexão a internet <br/> <a href="../lexicos#usuario">usuário</a> deve estar logado no aplicativo <br/> <a href="../lexicos#usuario">usuário</a> deve ter <a href="../lexicos#contratos">contratos</a> registrado na conta |
@@ -221,10 +235,11 @@ tirar dúvidas sobre a  <a href="../lexicos#carteiraDeTrabalhoDigital">carteira 
 | **Fluxo(s) de exceção** | **[FE01] Falha de conexão com a internet <br/>** **[FE02] <a href="../lexicos#usuario">usuário</a> não tem permissão para solicitar qualquer <a href="../lexicos#beneficios">benefício</a> <br/>** **[FE03] <a href="../lexicos#usuario">usuário</a> sem permissão para essa funcionalidade <br/>**|
 
 <span id="consultarBeneficio"></span>
+<span id="UC15"></span>
 
-### US15 - Consultar <a href="../lexicos#beneficioEmergencial">Benefício emergencial</a>
+### UC15 - Consultar <a href="../lexicos#beneficioEmergencial">Benefício emergencial</a>
 
-|   US15   | Descrição |
+|   UC15   | Descrição |
 | -------- | --------- |
 | **Ator** | <a href="../lexicos#usuario">usuário</a> |
 | **Pré-condições** | <a href="../lexicos#usuario">usuário</a> deve ter conexão a internet <br/> <a href="../lexicos#usuario">usuário</a> deve estar logado no aplicativo <br/> <a href="../lexicos#usuario">usuário</a> deve ter <a href="../lexicos#contratos">contratos</a> registrado na conta |
@@ -234,10 +249,11 @@ tirar dúvidas sobre a  <a href="../lexicos#carteiraDeTrabalhoDigital">carteira 
 | **Fluxo(s) de exceção** | **[FE01] Falha de conexão com a internet <br/>** **[FE02] <a href="../lexicos#usuario">usuário</a> não tem permissão para solicitar <a href="../lexicos#beneficios">benefício</a> <br/>** **[FE03] <a href="../lexicos#usuario">usuário</a> sem permissão para essa funcionalidade <br/>**|
 
 <span id="consultarAbono"></span>
+<span id="UC16"></span>
 
-### US16 - Consultar <a href="../lexicos#abonoSalarial">Abono Salarial</a>
+### UC16 - Consultar <a href="../lexicos#abonoSalarial">Abono Salarial</a>
 
-|   US16   | Descrição |
+|   UC16   | Descrição |
 | -------- | --------- |
 | **Ator** | <a href="../lexicos#usuario">usuário</a> |
 | **Pré-condições** | <a href="../lexicos#usuario">usuário</a> deve ter conexão a internet <br/> <a href="../lexicos#usuario">usuário</a> deve estar logado no aplicativo <br/> <a href="../lexicos#usuario">usuário</a> deve ter <a href="../lexicos#contratos">contratos</a> registrado na conta |

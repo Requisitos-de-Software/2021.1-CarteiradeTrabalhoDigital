@@ -15,6 +15,7 @@ Os léxicos são separados em quatro (4) classificações: _objeto, estado, suje
 ## 2. Símbolos
 
 <span id="abonoSalarial"></span>
+<span id="L01"></span>
 
 #### L01 - Abono Salarial
 
@@ -26,6 +27,7 @@ Os léxicos são separados em quatro (4) classificações: _objeto, estado, suje
 | **Classificação** | Objeto                                                       |
 
 <span id="ajuda"></span>
+<span id="L02"></span>
 
 #### L02 - Ajuda (FAQ)
 
@@ -37,6 +39,7 @@ Os léxicos são separados em quatro (4) classificações: _objeto, estado, suje
 | **Classificação** | Objeto                                                       |
 
 <span id="aloTrabalho"></span>
+<span id="L03"></span>
 
 #### L03 - Alô trabalho
 
@@ -48,6 +51,7 @@ Os léxicos são separados em quatro (4) classificações: _objeto, estado, suje
 | **Classificação** | Objeto                                                       |
 
 <span id="avaliar"></span>
+<span id="L04"></span>
 
 #### L04 - Avaliar
 
@@ -59,6 +63,7 @@ Os léxicos são separados em quatro (4) classificações: _objeto, estado, suje
 | **Classificação** | Verbo                                                        |
 
 <span id="beneficios"></span>
+<span id="L05"></span>
 
 #### L05 - Benefícios
 
@@ -70,6 +75,7 @@ Os léxicos são separados em quatro (4) classificações: _objeto, estado, suje
 | **Classificação** | Objeto                                                       |
 
 <span id="beneficioEmergencial"></span>
+<span id="L06"></span>
 
 #### L06 - Benefício Emergencial
 
@@ -81,6 +87,7 @@ Os léxicos são separados em quatro (4) classificações: _objeto, estado, suje
 | **Classificação** | Objeto                                                       |
 
 <span id="carteiraDeTrabalho"></span>
+<span id="L07"></span>
 
 #### L07 - Carteira de Trabalho
 
@@ -92,6 +99,7 @@ Os léxicos são separados em quatro (4) classificações: _objeto, estado, suje
 | **Classificação** | Objeto                                                       |
 
 <span id="carteiraDeTrabalhoDigital"></span>
+<span id="L08"></span>
 
 #### L08 - Carteira de Trabalho Digital
 
@@ -103,6 +111,7 @@ Os léxicos são separados em quatro (4) classificações: _objeto, estado, suje
 | **Classificação** | Objeto                                                       |
 
 <span id="contratos"></span>
+<span id="L09"></span>
 
 #### L09 - Contratos
 
@@ -114,6 +123,7 @@ Os léxicos são separados em quatro (4) classificações: _objeto, estado, suje
 | **Classificação** | Objeto                                                       |
 
 <span id="divergenciasContrato"></span>
+<span id="L10"></span>
 
 #### L10 - Divergências de Contrato
 
@@ -125,6 +135,7 @@ Os léxicos são separados em quatro (4) classificações: _objeto, estado, suje
 | **Classificação** | Objeto                                                       |
 
 <span id="enviar"></span>
+<span id="L11"></span>
 
 #### L11 - Enviar
 
@@ -135,7 +146,8 @@ Os léxicos são separados em quatro (4) classificações: _objeto, estado, suje
 | **Impacto**       | Poder compartilhar as informações pessoais contidas na <a href="#carteiraDeTrabalhoDigital">Carteira de Trabalho Digital</a> através de um arquivo em PDF. |
 | **Classificação** | Verbo                                                        |
 
-<span id="grafico"></grafico>
+<span id="grafico"></span>
+<span id="L12"></span>
 
 #### L12 - Gráfico
 
@@ -147,6 +159,7 @@ Os léxicos são separados em quatro (4) classificações: _objeto, estado, suje
 | **Classificação** | Objeto                                                    |
 
 <span id="notificacoes"></span>
+<span id="L13"></span>
 
 #### L13 - Notificações
 
@@ -158,6 +171,7 @@ Os léxicos são separados em quatro (4) classificações: _objeto, estado, suje
 | **Classificação** | Objeto                                             |
 
 <span id="seguroDesemprego"></span>
+<span id="L14"></span>
 
 #### L14 - Seguro-desemprego
 
@@ -169,6 +183,7 @@ Os léxicos são separados em quatro (4) classificações: _objeto, estado, suje
 | **Classificação** | Objeto                                                       |
 
 <span id="usuario"></span>
+<span id="L15"></span>
 
 #### L15 - Usuário
 

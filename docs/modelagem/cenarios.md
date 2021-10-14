@@ -12,6 +12,8 @@ Cenários é uma estratégia reconhecida para compreender as interações entre 
 
 ## 3. Cenários
 
+<span id="C01"></span>
+
 ### C01 - Cadastrar usuário tendo registro e <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a> física
 
 - **Objetivo:** Cadastrar <a href="../lexicos#usuario">usuário</a> de forma a obter as informações da <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a> pelo aplicativo
@@ -23,6 +25,8 @@ Pré-condição: Possuir um registro e/ou <a href="../lexicos#carteiraDeTrabalho
 - **Recursos:** Internet, Aplicativo e <a href="../lexicos#carteiraDeTrabalho">Carteira de Trabalho</a> Física
 - **Exceções:** Não possuir aparelho que suporte aplicativos Android ou IOS, Sistema Indisponível, ser um <a href="../lexicos#usuario">usuário</a> sem qualquer registro no governo.
 - **Episódios:** <a href="../lexicos#usuario">Usuário</a> deseja migrar sua carteira física para a carteira digital, <a href="../lexicos#usuario">usuário</a> perdeu sua carteira física e passou a utilizar a carteira digital.
+
+<span id="C02"></span>
 
 ### C02 - Cadastrar usuário não tendo registro e <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a> física
 
@@ -36,6 +40,8 @@ Pré-condição: Não possuir registro de uma <a href="../lexicos#carteiraDeTrab
 - **Exceções:** Não possuir aparelho que suporte aplicativos Android ou IOS, Sistema Indisponível, ser um <a href="../lexicos#usuario">usuário</a> sem qualquer registro no governo.
 - **Episódios:** <a href="../lexicos#usuario">Usuário</a> deseja criar uma <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a>, <a href="../lexicos#usuario">usuário</a> acaba de ingressar no mercado de trabalho e precisa criar uma <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a>.
 
+<span id="C03"></span>
+
 ### C03 - Realizar login
 
 - **Objetivo:** Realizar login para acessar as informações da <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a>
@@ -47,6 +53,8 @@ Pré-condição: Possuir conta registrada no aplicativo
 - **Recursos:** Internet, Aplicativo e Registro
 - **Exceções:** Não possuir aparelho que suporte aplicativos Android ou IOS, Sistema Indisponível, ser um <a href="../lexicos#usuario">usuário</a> sem registro no aplicativo.
 - **Episódios:** <a href="../lexicos#usuario">Usuário</a> deseja acessar sua <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a>
+
+<span id="C04"></span>
 
 ### C04 - Realizar logout
 
@@ -60,6 +68,8 @@ Pré-condição: Possuir conta registrada no aplicativo
 - **Exceções:** Não possuir aparelho que suporte aplicativos Android ou IOS, Sistema Indisponível, ser um <a href="../lexicos#usuario">usuário</a> sem conta no aplicativo.
 - **Episódios:** <a href="../lexicos#usuario">Usuário</a> deseja sair da sua conta para outra pessoa conseguir acessar sua conta pelo mesmo dispositivo, <a href="../lexicos#usuario">usuário</a> deseja sair da conta por segurança para ninguém conseguir acessar suas informações.
 
+<span id="C05"></span>
+
 ### C05 - Registro de trabalho
 
 - **Objetivos:** Acessar os registros de trabalho pelo aplicativo
@@ -71,6 +81,8 @@ Pré-condição: Possuir conta registrada no aplicativo
 - **Recursos:** Ter vinculado a <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a> ao menos um registro de trabalho, aplicativo
 - **Exceções:** Não possuir aparelho que suporte aplicativos Android ou IOS, Sistema Indisponível, não possuir registro de trabalho na <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a>.
 - **Episódios:** <a href="../lexicos#usuario">Usuário</a> deseja visualizar os registros de trabalho anteriores como também os antigos registrados em sua <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a>.
+
+<span id="C06"></span>
 
 ### C06 - <a href="../casos-de-uso#solicitarAjuda">Solicitar Ajuda</a>
 
@@ -84,6 +96,8 @@ Pré-condição: Possuir conta registrada no aplicativo
 - **Exceções:** Não possuir conta registrada, não ter dúvidas em algum processo ou funcionalidade do aplicativo
 - **Episódios:** <a href="../lexicos#usuario">Usuário</a> possui dificuldade com as funcionalidades do aplicativo, <a href="../lexicos#usuario">usuário</a> possui dificuldade com os processos que envolvem a <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a>.
 
+<span id="C07"></span>
+
 ### C07 - Emissão da <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a> em pdf
 
 - **Objetivos:** Emitir informações contratuais da <a href="../lexicos#carteiraDeTrabalhoDigital">carteira de trabalho digital</a> em formato pdf
@@ -95,6 +109,8 @@ Pré-condição: Possuir conta registrada no aplicativo
 - **Recursos:** Aplicativo, Conta
 - **Exceções:** Não possuir necessidade de gerar informações da <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a>, <a href="../lexicos#usuario">usuário</a> sem registro de <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a>
 - **Episódios:** <a href="../lexicos#usuario">Usuário</a> precisa passar informações da sua <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a> para registro de um novo trabalho, <a href="../lexicos#usuario">usuário</a> precisa gerar documento para comprovar tempo de trabalho ou experiência de trabalho
+
+<span id="C08"></span>
 
 ### C08 - Visualizar <a href="../lexicos#contratos">contratos</a>
 
@@ -108,6 +124,8 @@ Pré-condição: Possuir conta registrada no aplicativo
 - **Exceções:** Não possuir <a href="../lexicos#contratos">contratos</a> registrados na <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a>, <a href="../lexicos#usuario">usuário</a> sem registro de <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a>
 - **Episódios:** <a href="../lexicos#usuario">Usuário</a> deseja visualizar <a href="../lexicos#contratos">contratos</a> anteriores para checar sua experiência de mercado
 
+<span id="C09"></span>
+
 ### C09 - Visualizar informações do usuário
 
 - **Objetivos:** Visualizar informações cadastradas do <a href="../lexicos#usuario">usuário</a>
@@ -119,6 +137,8 @@ Pré-condição: Possuir conta registrada no aplicativo
 - **Recursos:** Aplicativo, Conta
 - **Exceções:** Não possuir conta registrada no aplicativo
 - **Episódios:** <a href="../lexicos#usuario">Usuário</a> deseja visualizar informações passadas durante o cadastro de conta, <a href="../lexicos#usuario">usuário</a> deseja checar informações pertinentes da sua <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a>, <a href="../lexicos#usuario">usuário</a> deseja checar validez das informações em sua <a href="../lexicos#carteiraDeTrabalhoDigital">carteira de trabalho digital</a>
+
+<span id="C10"></span>
 
 ### C10 - Reportar <a href="../lexicos#divergenciasContrato">divergência da informação no contrato</a>
 
@@ -132,6 +152,8 @@ Pré-condição: Possuir conta registrada no aplicativo
 - **Exceções:** Não possuir divergência em qualquer <a href="../lexicos#contratos">contrato</a> registrado ou mostrado no aplicativo, <a href="../lexicos#usuario">usuário</a> sem registro de <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a>
 - **Episódios:** <a href="../lexicos#usuario">Usuário</a> nota divergência no seu <a href="../lexicos#contratos">contrato</a> vigente e reporta para alteração, <a href="../lexicos#usuario">usuário</a> nota divergência em seu <a href="../lexicos#contratos">contrato</a> passado, e possui comprovante de informação equivocada e reporta divergência.
 
+<span id="C11"></span>
+
 ### C11 - Visualizar anotações no <a href="../lexicos#contratos">contrato</a>
 
 - **Objetivos:** Visualizar anotações feitas no <a href="../lexicos#contratos">contrato</a> do <a href="../lexicos#usuario">usuário</a> pela empresa
@@ -143,6 +165,8 @@ Pré-condição: Possuir conta registrada no aplicativo
 - **Recursos:** Aplicativo, Conta
 - **Exceções:** Não possuir anotações no <a href="../lexicos#contratos">contrato</a>, não possuir <a href="../lexicos#contratos">contratos</a> associados a <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a>, <a href="../lexicos#usuario">usuário</a> sem registro de <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a>
 - **Episódios:** <a href="../lexicos#usuario">Usuário</a> consegue checar quais foram as anotações feitas no seu <a href="../lexicos#contratos">contrato</a> em caso de falta, de licença médica ou férias
+
+<span id="C12"></span>
 
 ### C12 - Visualizar <a href="../lexicos#grafico">gráficos</a> do <a href="../lexicos#contratos">contrato</a>
 
@@ -156,6 +180,8 @@ Pré-condição: Possuir conta registrada no aplicativo
 - **Exceções:** Não possuir <a href="../lexicos#contratos">contratos</a> registrados na <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a>, <a href="../lexicos#usuario">usuário</a> sem registro de <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a>
 - **Episódios:** <a href="../lexicos#usuario">Usuário</a> deseja visualizar num formato mais simples de comparação as informações do seu <a href="../lexicos#contratos">contrato</a> passado com o atual
 
+<span id="C13"></span>
+
 ### C13 - Solicitar <a href="../lexicos#seguroDesemprego">seguro-desemprego</a>
 
 - **Objetivos:** Solicitar <a href="../lexicos#seguroDesemprego">seguro-desemprego</a> através do aplicativo
@@ -168,6 +194,8 @@ Pré-condição: Possuir conta registrada no aplicativo
 - **Exceções:** <a href="../lexicos#usuario">Usuário</a> sem permissão para o <a href="../lexicos#beneficios">benefício</a> do seguro-desemprego, <a href="../lexicos#usuario">usuário</a> sem registro de <a href="../lexicos#carteiraDeTrabalho">carteira de trabalho</a>
 - **Episódios:** <a href="../lexicos#usuario">Usuário</a> deseja solicitar o <a href="../lexicos#seguroDesemprego">seguro-desemprego</a> após passar por dificuldades e estar desempregado
 
+<span id="C14"></span>
+
 ### C14 - Visualizar <a href="../lexicos#notificacoes">notificações</a>
 
 - **Objetivos:** Visualizar <a href="../lexicos#notificacoes">notificações</a> de registro de trabalho como anotações feitas no <a href="../lexicos#contratos">contrato</a>
@@ -179,6 +207,8 @@ Pré-condição: Possuir conta registrada no aplicativo
 - **Recursos:** Aplicativo, Conta
 - **Exceções:** <a href="../lexicos#usuario">Usuário</a> não possuir conta no aplicativo, <a href="../lexicos#usuario">usuário</a> não possuir o aplicativo
 - **Episódios:** <a href="../lexicos#usuario">Usuário</a> se esquece de atualizar suas informações e é lembrado por <a href="../lexicos#notificacoes">notificação</a>, <a href="../lexicos#usuario">usuário</a> consegue checar anotações feitas no seu <a href="../lexicos#contratos">contrato</a> pois é notificado quando feita, <a href="../lexicos#usuario">usuário</a> é notificado quando é feito o registro de trabalho em sua carteira digital
+
+<span id="C15"></span>
 
 ### C15 - Consultar <a href="../lexicos#beneficios">benefícios</a>
 

@@ -57,7 +57,7 @@ Podem ser utilizadas em várias fases do processo, pois servem para alinhar info
 | Objetivo | Conseguir um bom emprego sempre acumulando experiência para conseguir ser um ótimo empreendedor |
 | Expectativa | Ele espera conseguir mais empregos e mais experiência ao longo de sua vida para e que possa gerenciar com a sua carteira de trabalho, demonstrando sua carreira e experiência acumulada nas demais empresas por onde passou. |
 
-### 2.1.4. Carlos Araújo
+#### 2.1.4. Carlos Araújo
 |Característica| Descrição |
 | :--- | :--- |
 |Foto| <img src="../../assets/carlosaraujo.jpg" width="100"> |

@@ -6,4 +6,46 @@ theme:
   logo: "assets/logo.png"
   icon:
     repo: fontawesome/brands/github
+  features:
+    - navigation.tabs
+    - navigation.top
+
+nav:
+  - Página Inicial: "index.md"
+  - Planejamento: "planejamento.md"
+  - Atas de Reunião: 
+    - 03/09/2021: "Atas de Reunião/reuniao_03_09.md"
+    - 06/08/2021: "Atas de Reunião/reuniao_06_08.md"
+    - 10/08/2021: "Atas de Reunião/reuniao_10_08.md"
+    - 24/08/2021: "Atas de Reunião/reuniao_24_08.md"
+    - 10/09/2021: "Atas de Reunião/reuniao_10_09.md"
+    - 23/09/2021: "Atas de Reunião/reuniao_23_09.md"
+    - 15/10/2021: "Atas de Reunião/reuniao_15_10.md"
+  - Pré-Rastreabilidade:
+    - Rich-Picture: "PreRastreabilidade/richPicture.md"
+  - Elicitação:
+    - Elicitação: "elicitacao/elicitacao.md"
+    - Personas: "elicitacao/personas.md"
+    - Técnicas:
+      - Brainstorming: "elicitacao/brainstorming.md"
+      - Introspecção: "elicitacao/introspeccao.md"
+      - Questionário: "elicitacao/questionario.md"
+      - Storytelling: "elicitacao/storytelling.md"
+  - Modelagem:
+    - Backlog do Produto: "modelagem/product-backlog.md"
+    - Casos de Uso: "modelagem/casos-de-uso.md"
+    - Cenários: "modelagem/cenarios.md"
+    - Especificação Suplementar: "modelagem/Especificação Suplementar.md"
+    - Léxicos: "modelagem/lexicos.md"
+    - NFR-Framework: "modelagem/NFR-Framework.md"
+  - Análise:
+    - Verificação:
+      - Inspeção: "análise/verificação/inspeção.md"
+    - Validação:
+      - Comprovação Informal: "análise/validação/Comprovacao_Informal.md"
+      - Ponto de Vista: "análise/validação/Viewpoint.md"
+  - Pós Rastreabilidade:
+    - Matriz Backward From: "pos_rastreabilidade/backward_from.md"
+    - Matriz Forward From: "pos_rastreabilidade/matriz_forward_from.md"
+    
 

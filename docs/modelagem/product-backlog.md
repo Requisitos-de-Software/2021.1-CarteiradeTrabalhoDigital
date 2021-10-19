@@ -223,4 +223,4 @@ Este documento tem como objetivo descrever todas as funcionalidades desejáveis 
 | 08/09/2021 | 0.2 | Adição dos critérios de aceitação, introdução ao documento e bibliografia. | Murilo Gomes e Lucas Rodrigues | Denniel William |
 | 09/09/2021 | 1.0 | Adição da tabela backlog do produto e remoção da tabela de histórias de <a href="../lexicos#usuario">usuário</a> | Denniel William |  |
 | 26/09/2021 | 1.1 | Rastreabilidade do projeto  | Liverson Paulo e Giulia Lobo | Murilo Gomes |
-| 19/09/2021 | 1.2 | Reestruturação do "para que" no Product Backlog  | Denniel William |  |
+| 19/09/2021 | 1.2 | Reestruturação do "para que" no Product Backlog  | Denniel William | Murilo Gomes  |

@@ -25,6 +25,13 @@
 
 **Figura 2**: Versão em diagrama do Rich Picture (Feito em 31/07)
 
+### Rich Picture v4 (Papel)
+
+
+![Rich Picture](../assets/rich_picture_v4.jpeg)
+
+**Figura 4*: Versão em diagrama do Rich Picture (Feito em 19/10)
+
 
 ## 3. Versionamento
 

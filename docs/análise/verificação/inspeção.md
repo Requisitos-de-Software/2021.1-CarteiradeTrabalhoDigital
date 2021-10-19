@@ -76,7 +76,15 @@ A inspeção é um método de verificação no qual são analisados documentos d
 
 ![](../../assets/Inspecao_backlog_pt2.jpeg)
 
-## 3. Conclusão
+## 3. Inspeções v2
+
+Depois da primeira inspeção houve algumas alterações em alguns documentos de acordo com a inspeção, além de que algumas checklists foram refatoradas:
+
+![](../../assets/inspecao_v2_1.png)
+
+![](../../assets/inspecao_v2_2.png)
+
+## 4. Conclusão
 
 Foram encontrados alguns erros dos quais modificações se fazem necessárias, a verificação nos ajudou a perceber quais são as mudanças para tornar o projeto mais rico.
 
@@ -86,7 +94,7 @@ Sendo estes:
 - Falta de ratreabilidade
 - Hiperlinks nos léxicos e nos cenários
 
-## 4. Versionamento
+## 5. Versionamento
 
 | Data       | Versão | Descrição            |         Autor           | Revisor |
 |------------|-----|-------------------------|-------------------------|---------|

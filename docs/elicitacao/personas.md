@@ -10,7 +10,9 @@ Podem ser utilizadas em várias fases do processo, pois servem para alinhar info
 
 ## 2. Personas
 
-### 2.1 Fernando Fernandes Sousa
+### 2.1. Personas Primárias
+
+#### 2.1.1. Fernando Fernandes Sousa
 
 | Característica | Descrição
 | :--- | :--- | 
@@ -25,7 +27,7 @@ Podem ser utilizadas em várias fases do processo, pois servem para alinhar info
 | Objetivo | Recuperar os dados de sua carteira de trabalho e emiti-la para enviar para a nova empresa |
 | Expectativa | Encontrar uma forma de manter suas informações de carteira de trabalho seguras e de fácil acesso |
 
-### 2.2 André Stuart Fonseca
+#### 2.1.2. André Stuart Fonseca
 
 | Característica | Descrição
 | :--- | :--- | 
@@ -40,7 +42,7 @@ Podem ser utilizadas em várias fases do processo, pois servem para alinhar info
 | Objetivo | Conseguir um bom emprego na área de arquitetura, e se destacar em sua área |
 | Expectativa | Animado para conseguir o seu primeiro emprego, e preocupado com a possibilidade de perder algum documento |
 
-### 2.3 Joaquim Silva Barbosa
+#### 2.1.3. Joaquim Silva Barbosa
 
 | Característica | Descrição
 | :--- | :--- | 
@@ -55,7 +57,7 @@ Podem ser utilizadas em várias fases do processo, pois servem para alinhar info
 | Objetivo | Conseguir um bom emprego sempre acumulando experiência para conseguir ser um ótimo empreendedor |
 | Expectativa | Ele espera conseguir mais empregos e mais experiência ao longo de sua vida para e que possa gerenciar com a sua carteira de trabalho, demonstrando sua carreira e experiência acumulada nas demais empresas por onde passou. |
 
-### 2.4 Carlos Araújo
+#### 2.1.4. Carlos Araújo
 |Característica| Descrição |
 | :--- | :--- |
 |Foto| <img src="../../assets/carlosaraujo.jpg" width="100"> |
@@ -92,3 +94,4 @@ Podem ser utilizadas em várias fases do processo, pois servem para alinhar info
 | 17/08/2021 | 1.0| Criação do documento | Liverson Paulo e Lucas Rodrigues | Giulia Lobo e Murilo Gomes |
 | 19/08/2021 | 1.1 | Adição de persona da dupla | Denniel William e Rhuan Marques | Liverson Paulo e Lucas Rodrigues |
 | 20/08/2021 | 1.2 | Adição de persona da dupla | Giulia Lobo e Murilo Gomes | Denniel William e Rhuan Marques |
+| 17/10/2021 | 1.3 | Adição de especificação de Personas Primárias | Giulia Lobo e Liverson Paulo | Murilo Gomes |

@@ -8,6 +8,7 @@ theme:
     repo: fontawesome/brands/github
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.top
 
 nav:
@@ -21,6 +22,13 @@ nav:
     - 10/09/2021: "Atas de Reunião/reuniao_10_09.md"
     - 23/09/2021: "Atas de Reunião/reuniao_23_09.md"
     - 15/10/2021: "Atas de Reunião/reuniao_15_10.md"
+  - Apresentações:
+    - Ponto de Controle 1: "Apresentações/Apresentação 1.md"
+    - Ponto de Controle 2: "Apresentações/Apresentação 2.md"
+    - Ponto de Controle 3: "Apresentações/Apresentação 3.md"
+    - Ponto de Controle 4: "Apresentações/Apresentação 4.md"
+    - Ponto de Controle 5: "Apresentações/Apresentação 5.md"
+    - Ponto de Controle 6: "Apresentações/Apresentação 6.md"
   - Pré-Rastreabilidade:
     - Rich-Picture: "PreRastreabilidade/richPicture.md"
   - Elicitação:

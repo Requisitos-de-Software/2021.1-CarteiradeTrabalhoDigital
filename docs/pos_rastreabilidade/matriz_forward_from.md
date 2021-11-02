@@ -56,4 +56,4 @@ Sendo assim, para demonstração, será montada uma matriz com cada requisito te
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
 | 06/10/2021 |  1.0   | Criação do documento e finalização do documento | Denniel William | Murilo Gomes |
-| 13/10/2021 | 1.1 | Adição de links para os artefatos | Murilo Gomes | |
+| 13/10/2021 | 1.1 | Adição de links para os artefatos | Murilo Gomes | Giulia Lobo |

@@ -84,6 +84,8 @@ Depois da primeira inspeção houve algumas alterações em alguns documentos de
 
 ![](../../assets/inspecao_v2_2.png)
 
+#### Obs.: Para uma melhor visualização das planilhas, clique aqui - <a href = "https://docs.google.com/spreadsheets/d/1C5rCuEABUgC_xOiGfWs-VCG3wJiuV7vuL1AoBvZre1Y/edit?usp=sharing">Checklists Carteira de Trabalho Digital</a>
+
 ## 4. Conclusão
 
 Foram encontrados alguns erros dos quais modificações se fazem necessárias, a verificação nos ajudou a perceber quais são as mudanças para tornar o projeto mais rico.
@@ -99,3 +101,5 @@ Sendo estes:
 | Data       | Versão | Descrição            |         Autor           | Revisor |
 |------------|-----|-------------------------|-------------------------|---------|
 | 17/09/2021 | 1.0 | Criação do Documento com os Viewpoints e suas devidas explicações e conclusões  | Liverson Paulo e Giulia Lobo | Murilo Gomes |
+| 17/10/2021 | 1.1 | Ajuste checklists, segunda versão das verificações  | Murilo Gomes | Giulia Lobo |
+| 02/11/2021 | 1.2 | Adição de um link para acesso às planilhas  | Giulia Lobo | Murilo Gomes |

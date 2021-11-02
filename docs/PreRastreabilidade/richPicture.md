@@ -41,4 +41,5 @@
 | 03/08/2021  | 1.1 | Adição da primeira versão do Rich Picture | Liverson Paulo                   | Denniel William |
 | 06/08/2021  | 1.2  | Adição da segunda versão do Rich Picture | Giulia Lobo                      | Murilo Gomes    |
 | 06/08/2021  |       1.3       | Adição de legenda nas figuras | Murilo Gomes                     | Rhuan Marques   |
-| 07/09/2021  | 1.4  | Adição de nova versão do Rich Picture aplicado a regra de negócio | Denniel William | Rhuan Marques   |
+| 07/09/2021  | 1.4  | Adição de nova versão do Rich Picture aplicado a regra de negócio | Denniel William | Rhuan Marques |
+| 19/10/2021  | 1.5  | Adição de nova versão do Rich Picture ajuste dos últimos detalhes | Denniel William | Giulia Lobo |

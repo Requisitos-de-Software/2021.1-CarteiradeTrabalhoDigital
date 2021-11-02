@@ -31,5 +31,5 @@ Esse documento tem como objetivo juntar as duas matrizes de pós rastreabilidade
 
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 06/10/2021 |  1.0   | Criação do documento unificando as duas matrizes| Murilo Gomes |  |
+| 06/10/2021 |  1.0   | Criação do documento unificando as duas matrizes| Murilo Gomes | Giulia Lobo |
 

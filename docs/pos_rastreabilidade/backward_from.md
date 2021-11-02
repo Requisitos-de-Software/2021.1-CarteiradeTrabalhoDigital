@@ -77,4 +77,4 @@ representa um subsistema.
 | Data       | Versão | Descrição            |         Autor           | Revisor |
 |------------|-----|-------------------------|-------------------------|---------|
 | 06/10/2021 | 1.0 | Criação do Documento com a Matriz, Introdução e Metodologia   | Murilo Gomes e Lucas Rodrigues | Giulia Lobo |
-| 13/10/2021 | 1.1 | Adição de links para os artefatos | Murilo Gomes | |
+| 13/10/2021 | 1.1 | Adição de links para os artefatos | Murilo Gomes | Giulia Lobo|

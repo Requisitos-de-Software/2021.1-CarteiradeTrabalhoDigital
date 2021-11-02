@@ -20,7 +20,6 @@ Este repositório é destinado ao estudo da matéria de Requisitos de Software, 
 | <img src="./assets/liverson.png" width="100">| Liverson Paulo   | liversonp    |
 | <img src="./assets/lucas.jpg" width="100">   | Lucas Rodrigues  | nickby2      |
 | <img src="./assets/murizada.jpg" width="100">| Murilo Gomes     | murilogds    |
-| <img src="./assets/rhuan.jpg" width="100">   | Rhuan Marques    | RhuanMr      |
 
 ## 3. Motivação
 
